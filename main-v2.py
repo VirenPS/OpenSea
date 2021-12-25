@@ -20,8 +20,7 @@ def get_floor_price(slug_name):
     collection_floor = float(collection_stats["stats"]["floor_price"])
 
     datetime_now = dt.datetime.now()
-    datetime_rounded = datetime_now - dt.timedelta(minutes=datetime_now.minute % 10,
-                                                   seconds=datetime_now.second,
+    datetime_rounded = datetime_now - dt.timedelta(seconds=datetime_now.second,
                                                    microseconds=datetime_now.microsecond)
 
     return [datetime_rounded, slug_name, collection_floor]
@@ -64,7 +63,7 @@ def plot_floor_data(floor_price_records_csv_filepath="floor_price_records.csv", 
 
     if seperate_windows:
         floor_data_pd.groupby(
-            ['Collection_Slug']).max()['Floor_Price'].plot()
+            ['Datetime',  'Collection_Slug']).max()['Floor_Price'].unstack().plot(subplots=True)
 
     else:
         floor_data_pd.groupby(
@@ -77,6 +76,6 @@ if __name__ == "__main__":
     tracked_slug_list = [
         "bigtime-founders", "slotienft", "billionairezombiesclub"]
 
-    plot_floor_data()
+    append_floor_data_to_file(tracked_slug_list)
 
-    # append_floor_data_to_file(tracked_slug_list)
+    plot_floor_data()
