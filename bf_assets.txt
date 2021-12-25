@@ -1,0 +1,3510 @@
+{
+    "assets": [
+        {
+            "animation_original_url": null,
+            "animation_url": null,
+            "asset_contract": {
+                "address": "0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d",
+                "asset_contract_type": "non-fungible",
+                "buyer_fee_basis_points": 0,
+                "created_date": "2021-12-07T11:53:22.179694",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": 0,
+                "dev_seller_fee_basis_points": 250,
+                "external_link": "https://www.slotie.com/",
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "name": "Slotie",
+                "nft_version": "3.0",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": 0,
+                "opensea_seller_fee_basis_points": 250,
+                "opensea_version": null,
+                "owner": 161990908,
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "schema_name": "ERC721",
+                "seller_fee_basis_points": 500,
+                "symbol": "SLOTIE",
+                "total_supply": "0"
+            },
+            "background_color": null,
+            "collection": {
+                "banner_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s2500",
+                "chat_url": null,
+                "created_date": "2021-12-07T11:54:51.197726",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": "0",
+                "dev_seller_fee_basis_points": "250",
+                "discord_url": "https://discord.gg/Qq58DcWZsJ",
+                "display_data": {
+                    "card_display_style": "contain"
+                },
+                "external_url": "https://www.slotie.com/",
+                "featured": false,
+                "featured_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "hidden": false,
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "instagram_username": null,
+                "is_subject_to_whitelist": false,
+                "large_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "medium_username": null,
+                "name": "Slotie NFT",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": "0",
+                "opensea_seller_fee_basis_points": "250",
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "require_email": false,
+                "safelist_request_status": "approved",
+                "short_description": null,
+                "slug": "slotienft",
+                "telegram_url": null,
+                "twitter_username": "SlotieNft",
+                "wiki_url": null
+            },
+            "creator": {
+                "address": "0x197f307de4a57608aa63a471c943a2fe15268834",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/9.png",
+                "user": {
+                    "username": "SlotieClub"
+                }
+            },
+            "decimals": 0,
+            "description": "When you hold a Slotie, you're not simply holding an item or a provably-rare piece of art. You have membership access to the Slotie Club with benefits and offerings such as:\n\n- NFT Staking Game\n- Exclusive Holder Reward\n- 20% Rakeback at Casinos\n- Breeding\n- Tokens\n- Slottery           \nSlotie is your ticket into the largest and fastest growing online Casino network on the blockchain. With only 10,000 VIP members ever to be minted, Sloties grants you access to the new world of Defi Gambling. Sloties grant proof of ownership on the Ethereum blockchain, and are based on the ERC-721 standard.\n\nMore than your ordinary community, Sloties provide real world benefits in over 150 Casinos worldwide. This is not your average Slot Machine: with Sloties it's your house, your rules!",
+            "external_link": null,
+            "id": 158006309,
+            "image_original_url": null,
+            "image_preview_url": null,
+            "image_thumbnail_url": null,
+            "image_url": "",
+            "is_presale": false,
+            "last_sale": null,
+            "listing_date": null,
+            "name": "Slotie #9863",
+            "num_sales": 0,
+            "owner": {
+                "address": "0x67774a2ad3b637a4506085cf968dad980e16667b",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/19.png",
+                "user": {
+                    "username": null
+                }
+            },
+            "permalink": "https://opensea.io/assets/0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d/9863",
+            "sell_orders": null,
+            "token_id": "9863",
+            "token_metadata": "https://sloties.mypinata.cloud/ipfs/QmUo76gxAosgUDkYsZohoYo9y9wapr8s6TorpPmYH9K6vx/9863",
+            "top_bid": null,
+            "traits": [
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 155,
+                    "trait_type": "Eyes",
+                    "value": "Golden Lids"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 482,
+                    "trait_type": "Background",
+                    "value": "Lemon"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 452,
+                    "trait_type": "Skin",
+                    "value": "Aztec Gray"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 441,
+                    "trait_type": "Hat",
+                    "value": "Skull Cap"
+                },
+                {
+                    "display_type": "boost_percentage",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "Rake Back",
+                    "value": 5
+                },
+                {
+                    "display_type": "boost_number",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "EHR Shares",
+                    "value": 260
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 200,
+                    "trait_type": "Mouth",
+                    "value": "Carrot"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 75,
+                    "trait_type": "Clothes",
+                    "value": "Golden Hakama"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 500,
+                    "trait_type": "Ear",
+                    "value": "Basic Lever"
+                }
+            ],
+            "transfer_fee": null,
+            "transfer_fee_payment_token": null
+        },
+        {
+            "animation_original_url": null,
+            "animation_url": null,
+            "asset_contract": {
+                "address": "0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d",
+                "asset_contract_type": "non-fungible",
+                "buyer_fee_basis_points": 0,
+                "created_date": "2021-12-07T11:53:22.179694",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": 0,
+                "dev_seller_fee_basis_points": 250,
+                "external_link": "https://www.slotie.com/",
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "name": "Slotie",
+                "nft_version": "3.0",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": 0,
+                "opensea_seller_fee_basis_points": 250,
+                "opensea_version": null,
+                "owner": 161990908,
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "schema_name": "ERC721",
+                "seller_fee_basis_points": 500,
+                "symbol": "SLOTIE",
+                "total_supply": "0"
+            },
+            "background_color": null,
+            "collection": {
+                "banner_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s2500",
+                "chat_url": null,
+                "created_date": "2021-12-07T11:54:51.197726",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": "0",
+                "dev_seller_fee_basis_points": "250",
+                "discord_url": "https://discord.gg/Qq58DcWZsJ",
+                "display_data": {
+                    "card_display_style": "contain"
+                },
+                "external_url": "https://www.slotie.com/",
+                "featured": false,
+                "featured_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "hidden": false,
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "instagram_username": null,
+                "is_subject_to_whitelist": false,
+                "large_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "medium_username": null,
+                "name": "Slotie NFT",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": "0",
+                "opensea_seller_fee_basis_points": "250",
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "require_email": false,
+                "safelist_request_status": "approved",
+                "short_description": null,
+                "slug": "slotienft",
+                "telegram_url": null,
+                "twitter_username": "SlotieNft",
+                "wiki_url": null
+            },
+            "creator": {
+                "address": "0x197f307de4a57608aa63a471c943a2fe15268834",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/9.png",
+                "user": {
+                    "username": "SlotieClub"
+                }
+            },
+            "decimals": 0,
+            "description": "When you hold a Slotie, you're not simply holding an item or a provably-rare piece of art. You have membership access to the Slotie Club with benefits and offerings such as:\n\n- NFT Staking Game\n- Exclusive Holder Reward\n- 20% Rakeback at Casinos\n- Breeding\n- Tokens\n- Slottery           \nSlotie is your ticket into the largest and fastest growing online Casino network on the blockchain. With only 10,000 VIP members ever to be minted, Sloties grants you access to the new world of Defi Gambling. Sloties grant proof of ownership on the Ethereum blockchain, and are based on the ERC-721 standard.\n\nMore than your ordinary community, Sloties provide real world benefits in over 150 Casinos worldwide. This is not your average Slot Machine: with Sloties it's your house, your rules!",
+            "external_link": null,
+            "id": 158006300,
+            "image_original_url": "https://gateway.pinata.cloud/ipfs/QmeSTigtYtz23ue1VU3cuY8wdzRZ9jwqBxGQaKgVuiiBBD/9862.png",
+            "image_preview_url": "https://lh3.googleusercontent.com/G8aZtI9glUenKYO3el5cDlj9HOhTpUDrnBeXduqhnXf45CRTw7KjuwghCc1k1rOV_8uxrQL-7myZ1cxj5Obz-dEm_A-MleyO2OVU_EY=s250",
+            "image_thumbnail_url": "https://lh3.googleusercontent.com/G8aZtI9glUenKYO3el5cDlj9HOhTpUDrnBeXduqhnXf45CRTw7KjuwghCc1k1rOV_8uxrQL-7myZ1cxj5Obz-dEm_A-MleyO2OVU_EY=s128",
+            "image_url": "https://lh3.googleusercontent.com/G8aZtI9glUenKYO3el5cDlj9HOhTpUDrnBeXduqhnXf45CRTw7KjuwghCc1k1rOV_8uxrQL-7myZ1cxj5Obz-dEm_A-MleyO2OVU_EY",
+            "is_presale": false,
+            "last_sale": null,
+            "listing_date": null,
+            "name": "Slotie #9862",
+            "num_sales": 0,
+            "owner": {
+                "address": "0x67774a2ad3b637a4506085cf968dad980e16667b",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/19.png",
+                "user": {
+                    "username": null
+                }
+            },
+            "permalink": "https://opensea.io/assets/0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d/9862",
+            "sell_orders": null,
+            "token_id": "9862",
+            "token_metadata": "https://sloties.mypinata.cloud/ipfs/QmUo76gxAosgUDkYsZohoYo9y9wapr8s6TorpPmYH9K6vx/9862",
+            "top_bid": null,
+            "traits": [
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 336,
+                    "trait_type": "Ear",
+                    "value": "Christmas Balls"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 351,
+                    "trait_type": "Eyes",
+                    "value": "Green Eyes"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 210,
+                    "trait_type": "Mouth",
+                    "value": "Piercing"
+                },
+                {
+                    "display_type": "boost_percentage",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "Rake Back",
+                    "value": 7
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 175,
+                    "trait_type": "Background",
+                    "value": "Midnight"
+                },
+                {
+                    "display_type": "boost_number",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "EHR Shares",
+                    "value": 220
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 131,
+                    "trait_type": "Clothes",
+                    "value": "Boxing Gloves"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 428,
+                    "trait_type": "Skin",
+                    "value": "Thunder Gray"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 397,
+                    "trait_type": "Hat",
+                    "value": "Purple Skull"
+                }
+            ],
+            "transfer_fee": null,
+            "transfer_fee_payment_token": null
+        },
+        {
+            "animation_original_url": null,
+            "animation_url": null,
+            "asset_contract": {
+                "address": "0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d",
+                "asset_contract_type": "non-fungible",
+                "buyer_fee_basis_points": 0,
+                "created_date": "2021-12-07T11:53:22.179694",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": 0,
+                "dev_seller_fee_basis_points": 250,
+                "external_link": "https://www.slotie.com/",
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "name": "Slotie",
+                "nft_version": "3.0",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": 0,
+                "opensea_seller_fee_basis_points": 250,
+                "opensea_version": null,
+                "owner": 161990908,
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "schema_name": "ERC721",
+                "seller_fee_basis_points": 500,
+                "symbol": "SLOTIE",
+                "total_supply": "0"
+            },
+            "background_color": null,
+            "collection": {
+                "banner_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s2500",
+                "chat_url": null,
+                "created_date": "2021-12-07T11:54:51.197726",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": "0",
+                "dev_seller_fee_basis_points": "250",
+                "discord_url": "https://discord.gg/Qq58DcWZsJ",
+                "display_data": {
+                    "card_display_style": "contain"
+                },
+                "external_url": "https://www.slotie.com/",
+                "featured": false,
+                "featured_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "hidden": false,
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "instagram_username": null,
+                "is_subject_to_whitelist": false,
+                "large_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "medium_username": null,
+                "name": "Slotie NFT",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": "0",
+                "opensea_seller_fee_basis_points": "250",
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "require_email": false,
+                "safelist_request_status": "approved",
+                "short_description": null,
+                "slug": "slotienft",
+                "telegram_url": null,
+                "twitter_username": "SlotieNft",
+                "wiki_url": null
+            },
+            "creator": {
+                "address": "0x197f307de4a57608aa63a471c943a2fe15268834",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/9.png",
+                "user": {
+                    "username": "SlotieClub"
+                }
+            },
+            "decimals": 0,
+            "description": "When you hold a Slotie, you're not simply holding an item or a provably-rare piece of art. You have membership access to the Slotie Club with benefits and offerings such as:\n\n- NFT Staking Game\n- Exclusive Holder Reward\n- 20% Rakeback at Casinos\n- Breeding\n- Tokens\n- Slottery           \nSlotie is your ticket into the largest and fastest growing online Casino network on the blockchain. With only 10,000 VIP members ever to be minted, Sloties grants you access to the new world of Defi Gambling. Sloties grant proof of ownership on the Ethereum blockchain, and are based on the ERC-721 standard.\n\nMore than your ordinary community, Sloties provide real world benefits in over 150 Casinos worldwide. This is not your average Slot Machine: with Sloties it's your house, your rules!",
+            "external_link": null,
+            "id": 158006287,
+            "image_original_url": "https://gateway.pinata.cloud/ipfs/QmeSTigtYtz23ue1VU3cuY8wdzRZ9jwqBxGQaKgVuiiBBD/9861.png",
+            "image_preview_url": "https://lh3.googleusercontent.com/3KuyLbyHmek1N8ayqiJYQy3_rMhuSsO20y6yV2twgPUXE0eMqhjpdBqaBQJVjff-l6KxqgQGaEcILiXPZWDlimtHk1BPCTmUz8YiEQ=s250",
+            "image_thumbnail_url": "https://lh3.googleusercontent.com/3KuyLbyHmek1N8ayqiJYQy3_rMhuSsO20y6yV2twgPUXE0eMqhjpdBqaBQJVjff-l6KxqgQGaEcILiXPZWDlimtHk1BPCTmUz8YiEQ=s128",
+            "image_url": "https://lh3.googleusercontent.com/3KuyLbyHmek1N8ayqiJYQy3_rMhuSsO20y6yV2twgPUXE0eMqhjpdBqaBQJVjff-l6KxqgQGaEcILiXPZWDlimtHk1BPCTmUz8YiEQ",
+            "is_presale": false,
+            "last_sale": null,
+            "listing_date": null,
+            "name": "Slotie #9861",
+            "num_sales": 0,
+            "owner": {
+                "address": "0x67774a2ad3b637a4506085cf968dad980e16667b",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/19.png",
+                "user": {
+                    "username": null
+                }
+            },
+            "permalink": "https://opensea.io/assets/0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d/9861",
+            "sell_orders": null,
+            "token_id": "9861",
+            "token_metadata": "https://sloties.mypinata.cloud/ipfs/QmUo76gxAosgUDkYsZohoYo9y9wapr8s6TorpPmYH9K6vx/9861",
+            "top_bid": null,
+            "traits": [
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 261,
+                    "trait_type": "Skin",
+                    "value": "Watermelon"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 169,
+                    "trait_type": "Mouth",
+                    "value": "Sensei Beard"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 469,
+                    "trait_type": "Ear",
+                    "value": "Pencil"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 295,
+                    "trait_type": "Clothes",
+                    "value": "Pizza Robe"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 765,
+                    "trait_type": "Background",
+                    "value": "Coin"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 130,
+                    "trait_type": "Hat",
+                    "value": "Uranium"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 348,
+                    "trait_type": "Eyes",
+                    "value": "Sunglasses"
+                },
+                {
+                    "display_type": "boost_percentage",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "Rake Back",
+                    "value": 15
+                },
+                {
+                    "display_type": "boost_number",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "EHR Shares",
+                    "value": 70
+                }
+            ],
+            "transfer_fee": null,
+            "transfer_fee_payment_token": null
+        },
+        {
+            "animation_original_url": null,
+            "animation_url": null,
+            "asset_contract": {
+                "address": "0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d",
+                "asset_contract_type": "non-fungible",
+                "buyer_fee_basis_points": 0,
+                "created_date": "2021-12-07T11:53:22.179694",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": 0,
+                "dev_seller_fee_basis_points": 250,
+                "external_link": "https://www.slotie.com/",
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "name": "Slotie",
+                "nft_version": "3.0",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": 0,
+                "opensea_seller_fee_basis_points": 250,
+                "opensea_version": null,
+                "owner": 161990908,
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "schema_name": "ERC721",
+                "seller_fee_basis_points": 500,
+                "symbol": "SLOTIE",
+                "total_supply": "0"
+            },
+            "background_color": null,
+            "collection": {
+                "banner_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s2500",
+                "chat_url": null,
+                "created_date": "2021-12-07T11:54:51.197726",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": "0",
+                "dev_seller_fee_basis_points": "250",
+                "discord_url": "https://discord.gg/Qq58DcWZsJ",
+                "display_data": {
+                    "card_display_style": "contain"
+                },
+                "external_url": "https://www.slotie.com/",
+                "featured": false,
+                "featured_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "hidden": false,
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "instagram_username": null,
+                "is_subject_to_whitelist": false,
+                "large_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "medium_username": null,
+                "name": "Slotie NFT",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": "0",
+                "opensea_seller_fee_basis_points": "250",
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "require_email": false,
+                "safelist_request_status": "approved",
+                "short_description": null,
+                "slug": "slotienft",
+                "telegram_url": null,
+                "twitter_username": "SlotieNft",
+                "wiki_url": null
+            },
+            "creator": {
+                "address": "0x197f307de4a57608aa63a471c943a2fe15268834",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/9.png",
+                "user": {
+                    "username": "SlotieClub"
+                }
+            },
+            "decimals": 0,
+            "description": "When you hold a Slotie, you're not simply holding an item or a provably-rare piece of art. You have membership access to the Slotie Club with benefits and offerings such as:\n\n- NFT Staking Game\n- Exclusive Holder Reward\n- 20% Rakeback at Casinos\n- Breeding\n- Tokens\n- Slottery           \nSlotie is your ticket into the largest and fastest growing online Casino network on the blockchain. With only 10,000 VIP members ever to be minted, Sloties grants you access to the new world of Defi Gambling. Sloties grant proof of ownership on the Ethereum blockchain, and are based on the ERC-721 standard.\n\nMore than your ordinary community, Sloties provide real world benefits in over 150 Casinos worldwide. This is not your average Slot Machine: with Sloties it's your house, your rules!",
+            "external_link": null,
+            "id": 156161855,
+            "image_original_url": "https://gateway.pinata.cloud/ipfs/QmeSTigtYtz23ue1VU3cuY8wdzRZ9jwqBxGQaKgVuiiBBD/9860.png",
+            "image_preview_url": "https://lh3.googleusercontent.com/53CKcwhg8gwoQcBQFZtorcWOGxhAIDUjxi8pH9S8w85z2BJpYJuetisMvGva4raENjMPvTP25VevdCnVd_TlIIQcH_n0DSZDixB1YKs=s250",
+            "image_thumbnail_url": "https://lh3.googleusercontent.com/53CKcwhg8gwoQcBQFZtorcWOGxhAIDUjxi8pH9S8w85z2BJpYJuetisMvGva4raENjMPvTP25VevdCnVd_TlIIQcH_n0DSZDixB1YKs=s128",
+            "image_url": "https://lh3.googleusercontent.com/53CKcwhg8gwoQcBQFZtorcWOGxhAIDUjxi8pH9S8w85z2BJpYJuetisMvGva4raENjMPvTP25VevdCnVd_TlIIQcH_n0DSZDixB1YKs",
+            "is_presale": false,
+            "last_sale": {
+                "asset": {
+                    "decimals": 0,
+                    "token_id": "9860"
+                },
+                "asset_bundle": null,
+                "auction_type": null,
+                "created_date": "2021-12-20T07:18:13.186742",
+                "event_timestamp": "2021-12-20T07:17:45",
+                "event_type": "successful",
+                "payment_token": {
+                    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                    "decimals": 18,
+                    "eth_price": "1.000000000000000",
+                    "id": 2,
+                    "image_url": "https://storage.opensea.io/files/accae6b6fb3888cbff27a013729c22dc.svg",
+                    "name": "Wrapped Ether",
+                    "symbol": "WETH",
+                    "usd_price": "3882.190000000000055000"
+                },
+                "quantity": "1",
+                "total_price": "300000000000000000",
+                "transaction": {
+                    "block_hash": "0x6789777693970a03c32844024c2a1878b789ab3d49b170c5659ee6fd98a4b14f",
+                    "block_number": "13840659",
+                    "from_account": {
+                        "address": "0x7779b422274a80a88030282a072ca381639d8d4a",
+                        "config": "",
+                        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+                        "user": {
+                            "username": "Cruz_Knoller"
+                        }
+                    },
+                    "id": 227616833,
+                    "timestamp": "2021-12-20T07:17:45",
+                    "to_account": {
+                        "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+                        "config": "verified",
+                        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+                        "user": {
+                            "username": "OpenSea-Orders"
+                        }
+                    },
+                    "transaction_hash": "0x2ac9f0a9bb035611367ae59abc7454c2a38c066bc087eca11228c9af4ec5f989",
+                    "transaction_index": "193"
+                }
+            },
+            "listing_date": null,
+            "name": "Slotie #9860",
+            "num_sales": 1,
+            "owner": {
+                "address": "0x93c58ef704624876c6275d9b098860d64f592dda",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/6.png",
+                "user": {
+                    "username": "JAY187"
+                }
+            },
+            "permalink": "https://opensea.io/assets/0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d/9860",
+            "sell_orders": null,
+            "token_id": "9860",
+            "token_metadata": "https://sloties.mypinata.cloud/ipfs/QmUo76gxAosgUDkYsZohoYo9y9wapr8s6TorpPmYH9K6vx/9860",
+            "top_bid": null,
+            "traits": [
+                {
+                    "display_type": "boost_percentage",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "Rake Back",
+                    "value": 5
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 363,
+                    "trait_type": "Skin",
+                    "value": "Brown Wood"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 577,
+                    "trait_type": "Background",
+                    "value": "Iris"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 172,
+                    "trait_type": "Eyes",
+                    "value": "Red Diamonds"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 405,
+                    "trait_type": "Ear",
+                    "value": "Talisman Bone"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 213,
+                    "trait_type": "Mouth",
+                    "value": "Feline Tusks"
+                },
+                {
+                    "display_type": "boost_number",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "EHR Shares",
+                    "value": 50
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 452,
+                    "trait_type": "Hat",
+                    "value": "Fishbone"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 331,
+                    "trait_type": "Clothes",
+                    "value": "Purple Spot"
+                }
+            ],
+            "transfer_fee": null,
+            "transfer_fee_payment_token": null
+        },
+        {
+            "animation_original_url": null,
+            "animation_url": null,
+            "asset_contract": {
+                "address": "0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d",
+                "asset_contract_type": "non-fungible",
+                "buyer_fee_basis_points": 0,
+                "created_date": "2021-12-07T11:53:22.179694",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": 0,
+                "dev_seller_fee_basis_points": 250,
+                "external_link": "https://www.slotie.com/",
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "name": "Slotie",
+                "nft_version": "3.0",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": 0,
+                "opensea_seller_fee_basis_points": 250,
+                "opensea_version": null,
+                "owner": 161990908,
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "schema_name": "ERC721",
+                "seller_fee_basis_points": 500,
+                "symbol": "SLOTIE",
+                "total_supply": "0"
+            },
+            "background_color": null,
+            "collection": {
+                "banner_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s2500",
+                "chat_url": null,
+                "created_date": "2021-12-07T11:54:51.197726",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": "0",
+                "dev_seller_fee_basis_points": "250",
+                "discord_url": "https://discord.gg/Qq58DcWZsJ",
+                "display_data": {
+                    "card_display_style": "contain"
+                },
+                "external_url": "https://www.slotie.com/",
+                "featured": false,
+                "featured_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "hidden": false,
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "instagram_username": null,
+                "is_subject_to_whitelist": false,
+                "large_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "medium_username": null,
+                "name": "Slotie NFT",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": "0",
+                "opensea_seller_fee_basis_points": "250",
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "require_email": false,
+                "safelist_request_status": "approved",
+                "short_description": null,
+                "slug": "slotienft",
+                "telegram_url": null,
+                "twitter_username": "SlotieNft",
+                "wiki_url": null
+            },
+            "creator": {
+                "address": "0x197f307de4a57608aa63a471c943a2fe15268834",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/9.png",
+                "user": {
+                    "username": "SlotieClub"
+                }
+            },
+            "decimals": 0,
+            "description": "When you hold a Slotie, you're not simply holding an item or a provably-rare piece of art. You have membership access to the Slotie Club with benefits and offerings such as:\n\n- NFT Staking Game\n- Exclusive Holder Reward\n- 20% Rakeback at Casinos\n- Breeding\n- Tokens\n- Slottery           \nSlotie is your ticket into the largest and fastest growing online Casino network on the blockchain. With only 10,000 VIP members ever to be minted, Sloties grants you access to the new world of Defi Gambling. Sloties grant proof of ownership on the Ethereum blockchain, and are based on the ERC-721 standard.\n\nMore than your ordinary community, Sloties provide real world benefits in over 150 Casinos worldwide. This is not your average Slot Machine: with Sloties it's your house, your rules!",
+            "external_link": null,
+            "id": 152056186,
+            "image_original_url": "https://gateway.pinata.cloud/ipfs/QmeSTigtYtz23ue1VU3cuY8wdzRZ9jwqBxGQaKgVuiiBBD/9859.png",
+            "image_preview_url": "https://lh3.googleusercontent.com/th8idXREuNDm-1oBvd9HSergG-Atdfw8jhFx5Q8mr43TAHcEYu_z6gbOe2lgbQPEV9yX_qbTV1AzMsjXloR3O_pDhzA3uV5EbXBQ9w=s250",
+            "image_thumbnail_url": "https://lh3.googleusercontent.com/th8idXREuNDm-1oBvd9HSergG-Atdfw8jhFx5Q8mr43TAHcEYu_z6gbOe2lgbQPEV9yX_qbTV1AzMsjXloR3O_pDhzA3uV5EbXBQ9w=s128",
+            "image_url": "https://lh3.googleusercontent.com/th8idXREuNDm-1oBvd9HSergG-Atdfw8jhFx5Q8mr43TAHcEYu_z6gbOe2lgbQPEV9yX_qbTV1AzMsjXloR3O_pDhzA3uV5EbXBQ9w",
+            "is_presale": false,
+            "last_sale": null,
+            "listing_date": null,
+            "name": "Slotie #9859",
+            "num_sales": 0,
+            "owner": {
+                "address": "0x3920dedfc006f549092d4db8944ec4d47697ab17",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/21.png",
+                "user": {
+                    "username": "84g473yr"
+                }
+            },
+            "permalink": "https://opensea.io/assets/0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d/9859",
+            "sell_orders": null,
+            "token_id": "9859",
+            "token_metadata": "https://sloties.mypinata.cloud/ipfs/QmUo76gxAosgUDkYsZohoYo9y9wapr8s6TorpPmYH9K6vx/9859",
+            "top_bid": null,
+            "traits": [
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 445,
+                    "trait_type": "Ear",
+                    "value": "Painting Brush"
+                },
+                {
+                    "display_type": "boost_number",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "EHR Shares",
+                    "value": 130
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 242,
+                    "trait_type": "Clothes",
+                    "value": "Mr. Snow"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 363,
+                    "trait_type": "Eyes",
+                    "value": "Sphinx Eyes"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 463,
+                    "trait_type": "Skin",
+                    "value": "Steel Gray"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 420,
+                    "trait_type": "Hat",
+                    "value": "Thanksgiving Hat"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 128,
+                    "trait_type": "Mouth",
+                    "value": "Sea Star"
+                },
+                {
+                    "display_type": "boost_percentage",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "Rake Back",
+                    "value": 6
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 525,
+                    "trait_type": "Background",
+                    "value": "Navy"
+                }
+            ],
+            "transfer_fee": null,
+            "transfer_fee_payment_token": null
+        },
+        {
+            "animation_original_url": null,
+            "animation_url": null,
+            "asset_contract": {
+                "address": "0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d",
+                "asset_contract_type": "non-fungible",
+                "buyer_fee_basis_points": 0,
+                "created_date": "2021-12-07T11:53:22.179694",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": 0,
+                "dev_seller_fee_basis_points": 250,
+                "external_link": "https://www.slotie.com/",
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "name": "Slotie",
+                "nft_version": "3.0",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": 0,
+                "opensea_seller_fee_basis_points": 250,
+                "opensea_version": null,
+                "owner": 161990908,
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "schema_name": "ERC721",
+                "seller_fee_basis_points": 500,
+                "symbol": "SLOTIE",
+                "total_supply": "0"
+            },
+            "background_color": null,
+            "collection": {
+                "banner_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s2500",
+                "chat_url": null,
+                "created_date": "2021-12-07T11:54:51.197726",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": "0",
+                "dev_seller_fee_basis_points": "250",
+                "discord_url": "https://discord.gg/Qq58DcWZsJ",
+                "display_data": {
+                    "card_display_style": "contain"
+                },
+                "external_url": "https://www.slotie.com/",
+                "featured": false,
+                "featured_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "hidden": false,
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "instagram_username": null,
+                "is_subject_to_whitelist": false,
+                "large_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "medium_username": null,
+                "name": "Slotie NFT",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": "0",
+                "opensea_seller_fee_basis_points": "250",
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "require_email": false,
+                "safelist_request_status": "approved",
+                "short_description": null,
+                "slug": "slotienft",
+                "telegram_url": null,
+                "twitter_username": "SlotieNft",
+                "wiki_url": null
+            },
+            "creator": {
+                "address": "0x197f307de4a57608aa63a471c943a2fe15268834",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/9.png",
+                "user": {
+                    "username": "SlotieClub"
+                }
+            },
+            "decimals": 0,
+            "description": "When you hold a Slotie, you're not simply holding an item or a provably-rare piece of art. You have membership access to the Slotie Club with benefits and offerings such as:\n\n- NFT Staking Game\n- Exclusive Holder Reward\n- 20% Rakeback at Casinos\n- Breeding\n- Tokens\n- Slottery           \nSlotie is your ticket into the largest and fastest growing online Casino network on the blockchain. With only 10,000 VIP members ever to be minted, Sloties grants you access to the new world of Defi Gambling. Sloties grant proof of ownership on the Ethereum blockchain, and are based on the ERC-721 standard.\n\nMore than your ordinary community, Sloties provide real world benefits in over 150 Casinos worldwide. This is not your average Slot Machine: with Sloties it's your house, your rules!",
+            "external_link": null,
+            "id": 152056171,
+            "image_original_url": "https://gateway.pinata.cloud/ipfs/QmeSTigtYtz23ue1VU3cuY8wdzRZ9jwqBxGQaKgVuiiBBD/9858.png",
+            "image_preview_url": "https://lh3.googleusercontent.com/DEQIydMhWwJkrX9japM6qdxUeMXM5rj0ggaAIkmsFPFEFx2I_sDojxj2ei8YlD4EolBBMex3NoXqv-e2e6BTkPy_WFqc1iFUqir4Pm8=s250",
+            "image_thumbnail_url": "https://lh3.googleusercontent.com/DEQIydMhWwJkrX9japM6qdxUeMXM5rj0ggaAIkmsFPFEFx2I_sDojxj2ei8YlD4EolBBMex3NoXqv-e2e6BTkPy_WFqc1iFUqir4Pm8=s128",
+            "image_url": "https://lh3.googleusercontent.com/DEQIydMhWwJkrX9japM6qdxUeMXM5rj0ggaAIkmsFPFEFx2I_sDojxj2ei8YlD4EolBBMex3NoXqv-e2e6BTkPy_WFqc1iFUqir4Pm8",
+            "is_presale": false,
+            "last_sale": null,
+            "listing_date": null,
+            "name": "Slotie #9858",
+            "num_sales": 0,
+            "owner": {
+                "address": "0x3920dedfc006f549092d4db8944ec4d47697ab17",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/21.png",
+                "user": {
+                    "username": "84g473yr"
+                }
+            },
+            "permalink": "https://opensea.io/assets/0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d/9858",
+            "sell_orders": null,
+            "token_id": "9858",
+            "token_metadata": "https://sloties.mypinata.cloud/ipfs/QmUo76gxAosgUDkYsZohoYo9y9wapr8s6TorpPmYH9K6vx/9858",
+            "top_bid": null,
+            "traits": [
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 261,
+                    "trait_type": "Skin",
+                    "value": "Watermelon"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 186,
+                    "trait_type": "Hat",
+                    "value": "Bloody Cards"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 38,
+                    "trait_type": "Mouth",
+                    "value": "Bite of Gold"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 351,
+                    "trait_type": "Eyes",
+                    "value": "Green Eyes"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 504,
+                    "trait_type": "Background",
+                    "value": "Charcoal"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 456,
+                    "trait_type": "Ear",
+                    "value": "Cactus Flower"
+                },
+                {
+                    "display_type": "boost_percentage",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "Rake Back",
+                    "value": 12
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 93,
+                    "trait_type": "Clothes",
+                    "value": "Pirate Costume"
+                },
+                {
+                    "display_type": "boost_number",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "EHR Shares",
+                    "value": 250
+                }
+            ],
+            "transfer_fee": null,
+            "transfer_fee_payment_token": null
+        },
+        {
+            "animation_original_url": null,
+            "animation_url": null,
+            "asset_contract": {
+                "address": "0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d",
+                "asset_contract_type": "non-fungible",
+                "buyer_fee_basis_points": 0,
+                "created_date": "2021-12-07T11:53:22.179694",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": 0,
+                "dev_seller_fee_basis_points": 250,
+                "external_link": "https://www.slotie.com/",
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "name": "Slotie",
+                "nft_version": "3.0",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": 0,
+                "opensea_seller_fee_basis_points": 250,
+                "opensea_version": null,
+                "owner": 161990908,
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "schema_name": "ERC721",
+                "seller_fee_basis_points": 500,
+                "symbol": "SLOTIE",
+                "total_supply": "0"
+            },
+            "background_color": null,
+            "collection": {
+                "banner_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s2500",
+                "chat_url": null,
+                "created_date": "2021-12-07T11:54:51.197726",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": "0",
+                "dev_seller_fee_basis_points": "250",
+                "discord_url": "https://discord.gg/Qq58DcWZsJ",
+                "display_data": {
+                    "card_display_style": "contain"
+                },
+                "external_url": "https://www.slotie.com/",
+                "featured": false,
+                "featured_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "hidden": false,
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "instagram_username": null,
+                "is_subject_to_whitelist": false,
+                "large_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "medium_username": null,
+                "name": "Slotie NFT",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": "0",
+                "opensea_seller_fee_basis_points": "250",
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "require_email": false,
+                "safelist_request_status": "approved",
+                "short_description": null,
+                "slug": "slotienft",
+                "telegram_url": null,
+                "twitter_username": "SlotieNft",
+                "wiki_url": null
+            },
+            "creator": {
+                "address": "0x197f307de4a57608aa63a471c943a2fe15268834",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/9.png",
+                "user": {
+                    "username": "SlotieClub"
+                }
+            },
+            "decimals": 0,
+            "description": "When you hold a Slotie, you're not simply holding an item or a provably-rare piece of art. You have membership access to the Slotie Club with benefits and offerings such as:\n\n- NFT Staking Game\n- Exclusive Holder Reward\n- 20% Rakeback at Casinos\n- Breeding\n- Tokens\n- Slottery           \nSlotie is your ticket into the largest and fastest growing online Casino network on the blockchain. With only 10,000 VIP members ever to be minted, Sloties grants you access to the new world of Defi Gambling. Sloties grant proof of ownership on the Ethereum blockchain, and are based on the ERC-721 standard.\n\nMore than your ordinary community, Sloties provide real world benefits in over 150 Casinos worldwide. This is not your average Slot Machine: with Sloties it's your house, your rules!",
+            "external_link": null,
+            "id": 152056150,
+            "image_original_url": "https://gateway.pinata.cloud/ipfs/QmeSTigtYtz23ue1VU3cuY8wdzRZ9jwqBxGQaKgVuiiBBD/9857.png",
+            "image_preview_url": "https://lh3.googleusercontent.com/wxBzZJ9uxRSkOGDm_oXZrGeybz7VqbkJRUjy8Fc7kv_XDLdcr8KbjJuaEfj19n2Qic5_2O7w4Pcwd5GipMJuLVYFEMhIr321VklH=s250",
+            "image_thumbnail_url": "https://lh3.googleusercontent.com/wxBzZJ9uxRSkOGDm_oXZrGeybz7VqbkJRUjy8Fc7kv_XDLdcr8KbjJuaEfj19n2Qic5_2O7w4Pcwd5GipMJuLVYFEMhIr321VklH=s128",
+            "image_url": "https://lh3.googleusercontent.com/wxBzZJ9uxRSkOGDm_oXZrGeybz7VqbkJRUjy8Fc7kv_XDLdcr8KbjJuaEfj19n2Qic5_2O7w4Pcwd5GipMJuLVYFEMhIr321VklH",
+            "is_presale": false,
+            "last_sale": null,
+            "listing_date": null,
+            "name": "Slotie #9857",
+            "num_sales": 0,
+            "owner": {
+                "address": "0x3920dedfc006f549092d4db8944ec4d47697ab17",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/21.png",
+                "user": {
+                    "username": "84g473yr"
+                }
+            },
+            "permalink": "https://opensea.io/assets/0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d/9857",
+            "sell_orders": null,
+            "token_id": "9857",
+            "token_metadata": "https://sloties.mypinata.cloud/ipfs/QmUo76gxAosgUDkYsZohoYo9y9wapr8s6TorpPmYH9K6vx/9857",
+            "top_bid": null,
+            "traits": [
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 246,
+                    "trait_type": "Ear",
+                    "value": "Quad Aces"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 288,
+                    "trait_type": "Skin",
+                    "value": "Lucky Turkey"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 363,
+                    "trait_type": "Eyes",
+                    "value": "Sphinx Eyes"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 145,
+                    "trait_type": "Clothes",
+                    "value": "Texas Holdem"
+                },
+                {
+                    "display_type": "boost_percentage",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "Rake Back",
+                    "value": 5
+                },
+                {
+                    "display_type": "boost_number",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "EHR Shares",
+                    "value": 210
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 532,
+                    "trait_type": "Background",
+                    "value": "Tiger"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 268,
+                    "trait_type": "Mouth",
+                    "value": "Candy"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 452,
+                    "trait_type": "Hat",
+                    "value": "Fishbone"
+                }
+            ],
+            "transfer_fee": null,
+            "transfer_fee_payment_token": null
+        },
+        {
+            "animation_original_url": null,
+            "animation_url": null,
+            "asset_contract": {
+                "address": "0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d",
+                "asset_contract_type": "non-fungible",
+                "buyer_fee_basis_points": 0,
+                "created_date": "2021-12-07T11:53:22.179694",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": 0,
+                "dev_seller_fee_basis_points": 250,
+                "external_link": "https://www.slotie.com/",
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "name": "Slotie",
+                "nft_version": "3.0",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": 0,
+                "opensea_seller_fee_basis_points": 250,
+                "opensea_version": null,
+                "owner": 161990908,
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "schema_name": "ERC721",
+                "seller_fee_basis_points": 500,
+                "symbol": "SLOTIE",
+                "total_supply": "0"
+            },
+            "background_color": null,
+            "collection": {
+                "banner_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s2500",
+                "chat_url": null,
+                "created_date": "2021-12-07T11:54:51.197726",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": "0",
+                "dev_seller_fee_basis_points": "250",
+                "discord_url": "https://discord.gg/Qq58DcWZsJ",
+                "display_data": {
+                    "card_display_style": "contain"
+                },
+                "external_url": "https://www.slotie.com/",
+                "featured": false,
+                "featured_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "hidden": false,
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "instagram_username": null,
+                "is_subject_to_whitelist": false,
+                "large_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "medium_username": null,
+                "name": "Slotie NFT",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": "0",
+                "opensea_seller_fee_basis_points": "250",
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "require_email": false,
+                "safelist_request_status": "approved",
+                "short_description": null,
+                "slug": "slotienft",
+                "telegram_url": null,
+                "twitter_username": "SlotieNft",
+                "wiki_url": null
+            },
+            "creator": {
+                "address": "0x197f307de4a57608aa63a471c943a2fe15268834",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/9.png",
+                "user": {
+                    "username": "SlotieClub"
+                }
+            },
+            "decimals": 0,
+            "description": "When you hold a Slotie, you're not simply holding an item or a provably-rare piece of art. You have membership access to the Slotie Club with benefits and offerings such as:\n\n- NFT Staking Game\n- Exclusive Holder Reward\n- 20% Rakeback at Casinos\n- Breeding\n- Tokens\n- Slottery           \nSlotie is your ticket into the largest and fastest growing online Casino network on the blockchain. With only 10,000 VIP members ever to be minted, Sloties grants you access to the new world of Defi Gambling. Sloties grant proof of ownership on the Ethereum blockchain, and are based on the ERC-721 standard.\n\nMore than your ordinary community, Sloties provide real world benefits in over 150 Casinos worldwide. This is not your average Slot Machine: with Sloties it's your house, your rules!",
+            "external_link": null,
+            "id": 152056135,
+            "image_original_url": "https://gateway.pinata.cloud/ipfs/QmeSTigtYtz23ue1VU3cuY8wdzRZ9jwqBxGQaKgVuiiBBD/9856.png",
+            "image_preview_url": "https://lh3.googleusercontent.com/8TkLh6FZYXap_JcB9UZUvd0ZZ6q-aaiRFaF8PIJ7-4FjaPdJJOhJDSkBrs60r7bFuXcTk4U633WQor93ABqOXyvOSSXLLjKucNqN=s250",
+            "image_thumbnail_url": "https://lh3.googleusercontent.com/8TkLh6FZYXap_JcB9UZUvd0ZZ6q-aaiRFaF8PIJ7-4FjaPdJJOhJDSkBrs60r7bFuXcTk4U633WQor93ABqOXyvOSSXLLjKucNqN=s128",
+            "image_url": "https://lh3.googleusercontent.com/8TkLh6FZYXap_JcB9UZUvd0ZZ6q-aaiRFaF8PIJ7-4FjaPdJJOhJDSkBrs60r7bFuXcTk4U633WQor93ABqOXyvOSSXLLjKucNqN",
+            "is_presale": false,
+            "last_sale": null,
+            "listing_date": null,
+            "name": "Slotie #9856",
+            "num_sales": 0,
+            "owner": {
+                "address": "0x3920dedfc006f549092d4db8944ec4d47697ab17",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/21.png",
+                "user": {
+                    "username": "84g473yr"
+                }
+            },
+            "permalink": "https://opensea.io/assets/0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d/9856",
+            "sell_orders": null,
+            "token_id": "9856",
+            "token_metadata": "https://sloties.mypinata.cloud/ipfs/QmUo76gxAosgUDkYsZohoYo9y9wapr8s6TorpPmYH9K6vx/9856",
+            "top_bid": null,
+            "traits": [
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 65,
+                    "trait_type": "Ear",
+                    "value": "Bronze BTC"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 295,
+                    "trait_type": "Skin",
+                    "value": "Disco Purple"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 472,
+                    "trait_type": "Background",
+                    "value": "Rouge"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 164,
+                    "trait_type": "Eyes",
+                    "value": "Cash Cow"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 108,
+                    "trait_type": "Hat",
+                    "value": "Samurai_s Hat"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 199,
+                    "trait_type": "Clothes",
+                    "value": "Safety Vest"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 253,
+                    "trait_type": "Mouth",
+                    "value": "Vertical"
+                },
+                {
+                    "display_type": "boost_percentage",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "Rake Back",
+                    "value": 17
+                },
+                {
+                    "display_type": "boost_number",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "EHR Shares",
+                    "value": 170
+                }
+            ],
+            "transfer_fee": null,
+            "transfer_fee_payment_token": null
+        },
+        {
+            "animation_original_url": null,
+            "animation_url": null,
+            "asset_contract": {
+                "address": "0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d",
+                "asset_contract_type": "non-fungible",
+                "buyer_fee_basis_points": 0,
+                "created_date": "2021-12-07T11:53:22.179694",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": 0,
+                "dev_seller_fee_basis_points": 250,
+                "external_link": "https://www.slotie.com/",
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "name": "Slotie",
+                "nft_version": "3.0",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": 0,
+                "opensea_seller_fee_basis_points": 250,
+                "opensea_version": null,
+                "owner": 161990908,
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "schema_name": "ERC721",
+                "seller_fee_basis_points": 500,
+                "symbol": "SLOTIE",
+                "total_supply": "0"
+            },
+            "background_color": null,
+            "collection": {
+                "banner_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s2500",
+                "chat_url": null,
+                "created_date": "2021-12-07T11:54:51.197726",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": "0",
+                "dev_seller_fee_basis_points": "250",
+                "discord_url": "https://discord.gg/Qq58DcWZsJ",
+                "display_data": {
+                    "card_display_style": "contain"
+                },
+                "external_url": "https://www.slotie.com/",
+                "featured": false,
+                "featured_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "hidden": false,
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "instagram_username": null,
+                "is_subject_to_whitelist": false,
+                "large_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "medium_username": null,
+                "name": "Slotie NFT",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": "0",
+                "opensea_seller_fee_basis_points": "250",
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "require_email": false,
+                "safelist_request_status": "approved",
+                "short_description": null,
+                "slug": "slotienft",
+                "telegram_url": null,
+                "twitter_username": "SlotieNft",
+                "wiki_url": null
+            },
+            "creator": {
+                "address": "0x197f307de4a57608aa63a471c943a2fe15268834",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/9.png",
+                "user": {
+                    "username": "SlotieClub"
+                }
+            },
+            "decimals": 0,
+            "description": "When you hold a Slotie, you're not simply holding an item or a provably-rare piece of art. You have membership access to the Slotie Club with benefits and offerings such as:\n\n- NFT Staking Game\n- Exclusive Holder Reward\n- 20% Rakeback at Casinos\n- Breeding\n- Tokens\n- Slottery           \nSlotie is your ticket into the largest and fastest growing online Casino network on the blockchain. With only 10,000 VIP members ever to be minted, Sloties grants you access to the new world of Defi Gambling. Sloties grant proof of ownership on the Ethereum blockchain, and are based on the ERC-721 standard.\n\nMore than your ordinary community, Sloties provide real world benefits in over 150 Casinos worldwide. This is not your average Slot Machine: with Sloties it's your house, your rules!",
+            "external_link": null,
+            "id": 152056124,
+            "image_original_url": "https://gateway.pinata.cloud/ipfs/QmeSTigtYtz23ue1VU3cuY8wdzRZ9jwqBxGQaKgVuiiBBD/9855.png",
+            "image_preview_url": "https://lh3.googleusercontent.com/ugAQNG1ec-mdXGGlgsTuDYxfzvU7oE7lTTkIYHKcYfAL_OWRdX3YGYCy35xFBc5MmGJPmxXYeHLzZZ151IAc47LH2H2969jxhMlfOw=s250",
+            "image_thumbnail_url": "https://lh3.googleusercontent.com/ugAQNG1ec-mdXGGlgsTuDYxfzvU7oE7lTTkIYHKcYfAL_OWRdX3YGYCy35xFBc5MmGJPmxXYeHLzZZ151IAc47LH2H2969jxhMlfOw=s128",
+            "image_url": "https://lh3.googleusercontent.com/ugAQNG1ec-mdXGGlgsTuDYxfzvU7oE7lTTkIYHKcYfAL_OWRdX3YGYCy35xFBc5MmGJPmxXYeHLzZZ151IAc47LH2H2969jxhMlfOw",
+            "is_presale": false,
+            "last_sale": null,
+            "listing_date": null,
+            "name": "Slotie #9855",
+            "num_sales": 0,
+            "owner": {
+                "address": "0x3920dedfc006f549092d4db8944ec4d47697ab17",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/21.png",
+                "user": {
+                    "username": "84g473yr"
+                }
+            },
+            "permalink": "https://opensea.io/assets/0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d/9855",
+            "sell_orders": null,
+            "token_id": "9855",
+            "token_metadata": "https://sloties.mypinata.cloud/ipfs/QmUo76gxAosgUDkYsZohoYo9y9wapr8s6TorpPmYH9K6vx/9855",
+            "top_bid": null,
+            "traits": [
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 271,
+                    "trait_type": "Hat",
+                    "value": "Winner_s Hat"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 397,
+                    "trait_type": "Skin",
+                    "value": "Aqua Green"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 362,
+                    "trait_type": "Ear",
+                    "value": "Disco Ball"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 179,
+                    "trait_type": "Eyes",
+                    "value": "Fool_s Gold"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 281,
+                    "trait_type": "Mouth",
+                    "value": "Reddish"
+                },
+                {
+                    "display_type": "boost_number",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "EHR Shares",
+                    "value": 150
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 221,
+                    "trait_type": "Clothes",
+                    "value": "Tomahawk"
+                },
+                {
+                    "display_type": "boost_percentage",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "Rake Back",
+                    "value": 8
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 594,
+                    "trait_type": "Background",
+                    "value": "Bege"
+                }
+            ],
+            "transfer_fee": null,
+            "transfer_fee_payment_token": null
+        },
+        {
+            "animation_original_url": null,
+            "animation_url": null,
+            "asset_contract": {
+                "address": "0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d",
+                "asset_contract_type": "non-fungible",
+                "buyer_fee_basis_points": 0,
+                "created_date": "2021-12-07T11:53:22.179694",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": 0,
+                "dev_seller_fee_basis_points": 250,
+                "external_link": "https://www.slotie.com/",
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "name": "Slotie",
+                "nft_version": "3.0",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": 0,
+                "opensea_seller_fee_basis_points": 250,
+                "opensea_version": null,
+                "owner": 161990908,
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "schema_name": "ERC721",
+                "seller_fee_basis_points": 500,
+                "symbol": "SLOTIE",
+                "total_supply": "0"
+            },
+            "background_color": null,
+            "collection": {
+                "banner_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s2500",
+                "chat_url": null,
+                "created_date": "2021-12-07T11:54:51.197726",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": "0",
+                "dev_seller_fee_basis_points": "250",
+                "discord_url": "https://discord.gg/Qq58DcWZsJ",
+                "display_data": {
+                    "card_display_style": "contain"
+                },
+                "external_url": "https://www.slotie.com/",
+                "featured": false,
+                "featured_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "hidden": false,
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "instagram_username": null,
+                "is_subject_to_whitelist": false,
+                "large_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "medium_username": null,
+                "name": "Slotie NFT",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": "0",
+                "opensea_seller_fee_basis_points": "250",
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "require_email": false,
+                "safelist_request_status": "approved",
+                "short_description": null,
+                "slug": "slotienft",
+                "telegram_url": null,
+                "twitter_username": "SlotieNft",
+                "wiki_url": null
+            },
+            "creator": {
+                "address": "0x197f307de4a57608aa63a471c943a2fe15268834",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/9.png",
+                "user": {
+                    "username": "SlotieClub"
+                }
+            },
+            "decimals": 0,
+            "description": "When you hold a Slotie, you're not simply holding an item or a provably-rare piece of art. You have membership access to the Slotie Club with benefits and offerings such as:\n\n- NFT Staking Game\n- Exclusive Holder Reward\n- 20% Rakeback at Casinos\n- Breeding\n- Tokens\n- Slottery           \nSlotie is your ticket into the largest and fastest growing online Casino network on the blockchain. With only 10,000 VIP members ever to be minted, Sloties grants you access to the new world of Defi Gambling. Sloties grant proof of ownership on the Ethereum blockchain, and are based on the ERC-721 standard.\n\nMore than your ordinary community, Sloties provide real world benefits in over 150 Casinos worldwide. This is not your average Slot Machine: with Sloties it's your house, your rules!",
+            "external_link": null,
+            "id": 152056112,
+            "image_original_url": "https://gateway.pinata.cloud/ipfs/QmeSTigtYtz23ue1VU3cuY8wdzRZ9jwqBxGQaKgVuiiBBD/9854.png",
+            "image_preview_url": "https://lh3.googleusercontent.com/ZT1TcgIzvL5phwe3NR0yLFJ2YyOvOVC6BPY-1FNFVGva0oEW7CZBCOXOk6ZkiDEe-HW0HYsj5rQR4WGfLs7uZYLkLQgdG5oEMa1GlQ=s250",
+            "image_thumbnail_url": "https://lh3.googleusercontent.com/ZT1TcgIzvL5phwe3NR0yLFJ2YyOvOVC6BPY-1FNFVGva0oEW7CZBCOXOk6ZkiDEe-HW0HYsj5rQR4WGfLs7uZYLkLQgdG5oEMa1GlQ=s128",
+            "image_url": "https://lh3.googleusercontent.com/ZT1TcgIzvL5phwe3NR0yLFJ2YyOvOVC6BPY-1FNFVGva0oEW7CZBCOXOk6ZkiDEe-HW0HYsj5rQR4WGfLs7uZYLkLQgdG5oEMa1GlQ",
+            "is_presale": false,
+            "last_sale": null,
+            "listing_date": null,
+            "name": "Slotie #9854",
+            "num_sales": 0,
+            "owner": {
+                "address": "0x3920dedfc006f549092d4db8944ec4d47697ab17",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/21.png",
+                "user": {
+                    "username": "84g473yr"
+                }
+            },
+            "permalink": "https://opensea.io/assets/0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d/9854",
+            "sell_orders": null,
+            "token_id": "9854",
+            "token_metadata": "https://sloties.mypinata.cloud/ipfs/QmUo76gxAosgUDkYsZohoYo9y9wapr8s6TorpPmYH9K6vx/9854",
+            "top_bid": null,
+            "traits": [
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 482,
+                    "trait_type": "Background",
+                    "value": "Lemon"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 232,
+                    "trait_type": "Mouth",
+                    "value": "Card Teeth"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 373,
+                    "trait_type": "Skin",
+                    "value": "Blue Sky"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 235,
+                    "trait_type": "Eyes",
+                    "value": "Serpant Eyes"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 303,
+                    "trait_type": "Hat",
+                    "value": "Viking_s Hair"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 199,
+                    "trait_type": "Clothes",
+                    "value": "Safety Vest"
+                },
+                {
+                    "display_type": "boost_percentage",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "Rake Back",
+                    "value": 8
+                },
+                {
+                    "display_type": "boost_number",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "EHR Shares",
+                    "value": 170
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 211,
+                    "trait_type": "Ear",
+                    "value": "Top Gear"
+                }
+            ],
+            "transfer_fee": null,
+            "transfer_fee_payment_token": null
+        },
+        {
+            "animation_original_url": null,
+            "animation_url": null,
+            "asset_contract": {
+                "address": "0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d",
+                "asset_contract_type": "non-fungible",
+                "buyer_fee_basis_points": 0,
+                "created_date": "2021-12-07T11:53:22.179694",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": 0,
+                "dev_seller_fee_basis_points": 250,
+                "external_link": "https://www.slotie.com/",
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "name": "Slotie",
+                "nft_version": "3.0",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": 0,
+                "opensea_seller_fee_basis_points": 250,
+                "opensea_version": null,
+                "owner": 161990908,
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "schema_name": "ERC721",
+                "seller_fee_basis_points": 500,
+                "symbol": "SLOTIE",
+                "total_supply": "0"
+            },
+            "background_color": null,
+            "collection": {
+                "banner_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s2500",
+                "chat_url": null,
+                "created_date": "2021-12-07T11:54:51.197726",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": "0",
+                "dev_seller_fee_basis_points": "250",
+                "discord_url": "https://discord.gg/Qq58DcWZsJ",
+                "display_data": {
+                    "card_display_style": "contain"
+                },
+                "external_url": "https://www.slotie.com/",
+                "featured": false,
+                "featured_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "hidden": false,
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "instagram_username": null,
+                "is_subject_to_whitelist": false,
+                "large_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "medium_username": null,
+                "name": "Slotie NFT",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": "0",
+                "opensea_seller_fee_basis_points": "250",
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "require_email": false,
+                "safelist_request_status": "approved",
+                "short_description": null,
+                "slug": "slotienft",
+                "telegram_url": null,
+                "twitter_username": "SlotieNft",
+                "wiki_url": null
+            },
+            "creator": {
+                "address": "0x197f307de4a57608aa63a471c943a2fe15268834",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/9.png",
+                "user": {
+                    "username": "SlotieClub"
+                }
+            },
+            "decimals": 0,
+            "description": "When you hold a Slotie, you're not simply holding an item or a provably-rare piece of art. You have membership access to the Slotie Club with benefits and offerings such as:\n\n- NFT Staking Game\n- Exclusive Holder Reward\n- 20% Rakeback at Casinos\n- Breeding\n- Tokens\n- Slottery           \nSlotie is your ticket into the largest and fastest growing online Casino network on the blockchain. With only 10,000 VIP members ever to be minted, Sloties grants you access to the new world of Defi Gambling. Sloties grant proof of ownership on the Ethereum blockchain, and are based on the ERC-721 standard.\n\nMore than your ordinary community, Sloties provide real world benefits in over 150 Casinos worldwide. This is not your average Slot Machine: with Sloties it's your house, your rules!",
+            "external_link": null,
+            "id": 152056103,
+            "image_original_url": "https://gateway.pinata.cloud/ipfs/QmeSTigtYtz23ue1VU3cuY8wdzRZ9jwqBxGQaKgVuiiBBD/9853.png",
+            "image_preview_url": "https://lh3.googleusercontent.com/dO5AsVO8wdYfksWA0UAJryYPGPDT-mWWuFI7-R64lIBddXay2Es1e9TbMIH5jeZcObahLsq5hY6fzZhp2cYChama8Toa8aiSVrRGMA=s250",
+            "image_thumbnail_url": "https://lh3.googleusercontent.com/dO5AsVO8wdYfksWA0UAJryYPGPDT-mWWuFI7-R64lIBddXay2Es1e9TbMIH5jeZcObahLsq5hY6fzZhp2cYChama8Toa8aiSVrRGMA=s128",
+            "image_url": "https://lh3.googleusercontent.com/dO5AsVO8wdYfksWA0UAJryYPGPDT-mWWuFI7-R64lIBddXay2Es1e9TbMIH5jeZcObahLsq5hY6fzZhp2cYChama8Toa8aiSVrRGMA",
+            "is_presale": false,
+            "last_sale": null,
+            "listing_date": null,
+            "name": "Slotie #9853",
+            "num_sales": 0,
+            "owner": {
+                "address": "0x3920dedfc006f549092d4db8944ec4d47697ab17",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/21.png",
+                "user": {
+                    "username": "84g473yr"
+                }
+            },
+            "permalink": "https://opensea.io/assets/0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d/9853",
+            "sell_orders": null,
+            "token_id": "9853",
+            "token_metadata": "https://sloties.mypinata.cloud/ipfs/QmUo76gxAosgUDkYsZohoYo9y9wapr8s6TorpPmYH9K6vx/9853",
+            "top_bid": null,
+            "traits": [
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 205,
+                    "trait_type": "Mouth",
+                    "value": "Chainsaw Teeth"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 336,
+                    "trait_type": "Ear",
+                    "value": "Christmas Balls"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 185,
+                    "trait_type": "Eyes",
+                    "value": "Spinning Clubs"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 261,
+                    "trait_type": "Skin",
+                    "value": "Watermelon"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 178,
+                    "trait_type": "Hat",
+                    "value": "Captain_s Hat"
+                },
+                {
+                    "display_type": "boost_number",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "EHR Shares",
+                    "value": 260
+                },
+                {
+                    "display_type": "boost_percentage",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "Rake Back",
+                    "value": 12
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 594,
+                    "trait_type": "Background",
+                    "value": "Bege"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 75,
+                    "trait_type": "Clothes",
+                    "value": "Golden Hakama"
+                }
+            ],
+            "transfer_fee": null,
+            "transfer_fee_payment_token": null
+        },
+        {
+            "animation_original_url": null,
+            "animation_url": null,
+            "asset_contract": {
+                "address": "0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d",
+                "asset_contract_type": "non-fungible",
+                "buyer_fee_basis_points": 0,
+                "created_date": "2021-12-07T11:53:22.179694",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": 0,
+                "dev_seller_fee_basis_points": 250,
+                "external_link": "https://www.slotie.com/",
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "name": "Slotie",
+                "nft_version": "3.0",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": 0,
+                "opensea_seller_fee_basis_points": 250,
+                "opensea_version": null,
+                "owner": 161990908,
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "schema_name": "ERC721",
+                "seller_fee_basis_points": 500,
+                "symbol": "SLOTIE",
+                "total_supply": "0"
+            },
+            "background_color": null,
+            "collection": {
+                "banner_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s2500",
+                "chat_url": null,
+                "created_date": "2021-12-07T11:54:51.197726",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": "0",
+                "dev_seller_fee_basis_points": "250",
+                "discord_url": "https://discord.gg/Qq58DcWZsJ",
+                "display_data": {
+                    "card_display_style": "contain"
+                },
+                "external_url": "https://www.slotie.com/",
+                "featured": false,
+                "featured_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "hidden": false,
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "instagram_username": null,
+                "is_subject_to_whitelist": false,
+                "large_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "medium_username": null,
+                "name": "Slotie NFT",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": "0",
+                "opensea_seller_fee_basis_points": "250",
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "require_email": false,
+                "safelist_request_status": "approved",
+                "short_description": null,
+                "slug": "slotienft",
+                "telegram_url": null,
+                "twitter_username": "SlotieNft",
+                "wiki_url": null
+            },
+            "creator": {
+                "address": "0x197f307de4a57608aa63a471c943a2fe15268834",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/9.png",
+                "user": {
+                    "username": "SlotieClub"
+                }
+            },
+            "decimals": 0,
+            "description": "When you hold a Slotie, you're not simply holding an item or a provably-rare piece of art. You have membership access to the Slotie Club with benefits and offerings such as:\n\n- NFT Staking Game\n- Exclusive Holder Reward\n- 20% Rakeback at Casinos\n- Breeding\n- Tokens\n- Slottery           \nSlotie is your ticket into the largest and fastest growing online Casino network on the blockchain. With only 10,000 VIP members ever to be minted, Sloties grants you access to the new world of Defi Gambling. Sloties grant proof of ownership on the Ethereum blockchain, and are based on the ERC-721 standard.\n\nMore than your ordinary community, Sloties provide real world benefits in over 150 Casinos worldwide. This is not your average Slot Machine: with Sloties it's your house, your rules!",
+            "external_link": null,
+            "id": 152056097,
+            "image_original_url": "https://gateway.pinata.cloud/ipfs/QmeSTigtYtz23ue1VU3cuY8wdzRZ9jwqBxGQaKgVuiiBBD/9852.png",
+            "image_preview_url": "https://lh3.googleusercontent.com/Ulhwx2Jp3DbrMeM7FHdFw7zqRIP9DxNwO0bjK4hka439Zu4C4_4ypUxMPjiNaxX6YsayPj2yToDQ5tpn8QyO6iJUNY_mM8NmLA_JFxY=s250",
+            "image_thumbnail_url": "https://lh3.googleusercontent.com/Ulhwx2Jp3DbrMeM7FHdFw7zqRIP9DxNwO0bjK4hka439Zu4C4_4ypUxMPjiNaxX6YsayPj2yToDQ5tpn8QyO6iJUNY_mM8NmLA_JFxY=s128",
+            "image_url": "https://lh3.googleusercontent.com/Ulhwx2Jp3DbrMeM7FHdFw7zqRIP9DxNwO0bjK4hka439Zu4C4_4ypUxMPjiNaxX6YsayPj2yToDQ5tpn8QyO6iJUNY_mM8NmLA_JFxY",
+            "is_presale": false,
+            "last_sale": null,
+            "listing_date": null,
+            "name": "Slotie #9852",
+            "num_sales": 0,
+            "owner": {
+                "address": "0x3920dedfc006f549092d4db8944ec4d47697ab17",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/21.png",
+                "user": {
+                    "username": "84g473yr"
+                }
+            },
+            "permalink": "https://opensea.io/assets/0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d/9852",
+            "sell_orders": null,
+            "token_id": "9852",
+            "token_metadata": "https://sloties.mypinata.cloud/ipfs/QmUo76gxAosgUDkYsZohoYo9y9wapr8s6TorpPmYH9K6vx/9852",
+            "top_bid": null,
+            "traits": [
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 270,
+                    "trait_type": "Clothes",
+                    "value": "Winner_s Tie"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 168,
+                    "trait_type": "Eyes",
+                    "value": "Samurai-Clubs"
+                },
+                {
+                    "display_type": "boost_number",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "EHR Shares",
+                    "value": 90
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 144,
+                    "trait_type": "Mouth",
+                    "value": "Viking Beard"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 93,
+                    "trait_type": "Hat",
+                    "value": "Nemes"
+                },
+                {
+                    "display_type": "boost_percentage",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "Rake Back",
+                    "value": 18
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 532,
+                    "trait_type": "Background",
+                    "value": "Tiger"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 509,
+                    "trait_type": "Ear",
+                    "value": "Watermelon"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 404,
+                    "trait_type": "Skin",
+                    "value": "Lucky Bronze"
+                }
+            ],
+            "transfer_fee": null,
+            "transfer_fee_payment_token": null
+        },
+        {
+            "animation_original_url": null,
+            "animation_url": null,
+            "asset_contract": {
+                "address": "0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d",
+                "asset_contract_type": "non-fungible",
+                "buyer_fee_basis_points": 0,
+                "created_date": "2021-12-07T11:53:22.179694",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": 0,
+                "dev_seller_fee_basis_points": 250,
+                "external_link": "https://www.slotie.com/",
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "name": "Slotie",
+                "nft_version": "3.0",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": 0,
+                "opensea_seller_fee_basis_points": 250,
+                "opensea_version": null,
+                "owner": 161990908,
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "schema_name": "ERC721",
+                "seller_fee_basis_points": 500,
+                "symbol": "SLOTIE",
+                "total_supply": "0"
+            },
+            "background_color": null,
+            "collection": {
+                "banner_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s2500",
+                "chat_url": null,
+                "created_date": "2021-12-07T11:54:51.197726",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": "0",
+                "dev_seller_fee_basis_points": "250",
+                "discord_url": "https://discord.gg/Qq58DcWZsJ",
+                "display_data": {
+                    "card_display_style": "contain"
+                },
+                "external_url": "https://www.slotie.com/",
+                "featured": false,
+                "featured_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "hidden": false,
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "instagram_username": null,
+                "is_subject_to_whitelist": false,
+                "large_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "medium_username": null,
+                "name": "Slotie NFT",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": "0",
+                "opensea_seller_fee_basis_points": "250",
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "require_email": false,
+                "safelist_request_status": "approved",
+                "short_description": null,
+                "slug": "slotienft",
+                "telegram_url": null,
+                "twitter_username": "SlotieNft",
+                "wiki_url": null
+            },
+            "creator": {
+                "address": "0x197f307de4a57608aa63a471c943a2fe15268834",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/9.png",
+                "user": {
+                    "username": "SlotieClub"
+                }
+            },
+            "decimals": 0,
+            "description": "When you hold a Slotie, you're not simply holding an item or a provably-rare piece of art. You have membership access to the Slotie Club with benefits and offerings such as:\n\n- NFT Staking Game\n- Exclusive Holder Reward\n- 20% Rakeback at Casinos\n- Breeding\n- Tokens\n- Slottery           \nSlotie is your ticket into the largest and fastest growing online Casino network on the blockchain. With only 10,000 VIP members ever to be minted, Sloties grants you access to the new world of Defi Gambling. Sloties grant proof of ownership on the Ethereum blockchain, and are based on the ERC-721 standard.\n\nMore than your ordinary community, Sloties provide real world benefits in over 150 Casinos worldwide. This is not your average Slot Machine: with Sloties it's your house, your rules!",
+            "external_link": null,
+            "id": 152056085,
+            "image_original_url": "https://gateway.pinata.cloud/ipfs/QmeSTigtYtz23ue1VU3cuY8wdzRZ9jwqBxGQaKgVuiiBBD/9851.png",
+            "image_preview_url": "https://lh3.googleusercontent.com/sQ6LlpBDIDioV5q6uek-JUfTrZVdlsUMbxeiT4Xw2jnFjO3gh5C6VRScFOV-9HFdQb0TzDTZ9NTtGt8gPx17bq7Vut6Kt-8ljl76hw=s250",
+            "image_thumbnail_url": "https://lh3.googleusercontent.com/sQ6LlpBDIDioV5q6uek-JUfTrZVdlsUMbxeiT4Xw2jnFjO3gh5C6VRScFOV-9HFdQb0TzDTZ9NTtGt8gPx17bq7Vut6Kt-8ljl76hw=s128",
+            "image_url": "https://lh3.googleusercontent.com/sQ6LlpBDIDioV5q6uek-JUfTrZVdlsUMbxeiT4Xw2jnFjO3gh5C6VRScFOV-9HFdQb0TzDTZ9NTtGt8gPx17bq7Vut6Kt-8ljl76hw",
+            "is_presale": false,
+            "last_sale": null,
+            "listing_date": null,
+            "name": "Slotie #9851",
+            "num_sales": 0,
+            "owner": {
+                "address": "0x3920dedfc006f549092d4db8944ec4d47697ab17",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/21.png",
+                "user": {
+                    "username": "84g473yr"
+                }
+            },
+            "permalink": "https://opensea.io/assets/0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d/9851",
+            "sell_orders": null,
+            "token_id": "9851",
+            "token_metadata": "https://sloties.mypinata.cloud/ipfs/QmUo76gxAosgUDkYsZohoYo9y9wapr8s6TorpPmYH9K6vx/9851",
+            "top_bid": null,
+            "traits": [
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 256,
+                    "trait_type": "Ear",
+                    "value": "Diamond Flowers"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 270,
+                    "trait_type": "Clothes",
+                    "value": "Winner_s Tie"
+                },
+                {
+                    "display_type": "boost_number",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "EHR Shares",
+                    "value": 90
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 235,
+                    "trait_type": "Eyes",
+                    "value": "SLOTR Eyes"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 281,
+                    "trait_type": "Mouth",
+                    "value": "Reddish"
+                },
+                {
+                    "display_type": "boost_percentage",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "Rake Back",
+                    "value": 6
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 428,
+                    "trait_type": "Skin",
+                    "value": "Thunder Gray"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 559,
+                    "trait_type": "Background",
+                    "value": "Tuscan"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 406,
+                    "trait_type": "Hat",
+                    "value": "Brown Hair"
+                }
+            ],
+            "transfer_fee": null,
+            "transfer_fee_payment_token": null
+        },
+        {
+            "animation_original_url": null,
+            "animation_url": null,
+            "asset_contract": {
+                "address": "0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d",
+                "asset_contract_type": "non-fungible",
+                "buyer_fee_basis_points": 0,
+                "created_date": "2021-12-07T11:53:22.179694",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": 0,
+                "dev_seller_fee_basis_points": 250,
+                "external_link": "https://www.slotie.com/",
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "name": "Slotie",
+                "nft_version": "3.0",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": 0,
+                "opensea_seller_fee_basis_points": 250,
+                "opensea_version": null,
+                "owner": 161990908,
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "schema_name": "ERC721",
+                "seller_fee_basis_points": 500,
+                "symbol": "SLOTIE",
+                "total_supply": "0"
+            },
+            "background_color": null,
+            "collection": {
+                "banner_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s2500",
+                "chat_url": null,
+                "created_date": "2021-12-07T11:54:51.197726",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": "0",
+                "dev_seller_fee_basis_points": "250",
+                "discord_url": "https://discord.gg/Qq58DcWZsJ",
+                "display_data": {
+                    "card_display_style": "contain"
+                },
+                "external_url": "https://www.slotie.com/",
+                "featured": false,
+                "featured_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "hidden": false,
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "instagram_username": null,
+                "is_subject_to_whitelist": false,
+                "large_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "medium_username": null,
+                "name": "Slotie NFT",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": "0",
+                "opensea_seller_fee_basis_points": "250",
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "require_email": false,
+                "safelist_request_status": "approved",
+                "short_description": null,
+                "slug": "slotienft",
+                "telegram_url": null,
+                "twitter_username": "SlotieNft",
+                "wiki_url": null
+            },
+            "creator": {
+                "address": "0x197f307de4a57608aa63a471c943a2fe15268834",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/9.png",
+                "user": {
+                    "username": "SlotieClub"
+                }
+            },
+            "decimals": 0,
+            "description": "When you hold a Slotie, you're not simply holding an item or a provably-rare piece of art. You have membership access to the Slotie Club with benefits and offerings such as:\n\n- NFT Staking Game\n- Exclusive Holder Reward\n- 20% Rakeback at Casinos\n- Breeding\n- Tokens\n- Slottery           \nSlotie is your ticket into the largest and fastest growing online Casino network on the blockchain. With only 10,000 VIP members ever to be minted, Sloties grants you access to the new world of Defi Gambling. Sloties grant proof of ownership on the Ethereum blockchain, and are based on the ERC-721 standard.\n\nMore than your ordinary community, Sloties provide real world benefits in over 150 Casinos worldwide. This is not your average Slot Machine: with Sloties it's your house, your rules!",
+            "external_link": null,
+            "id": 152056074,
+            "image_original_url": "https://gateway.pinata.cloud/ipfs/QmeSTigtYtz23ue1VU3cuY8wdzRZ9jwqBxGQaKgVuiiBBD/9850.png",
+            "image_preview_url": "https://lh3.googleusercontent.com/4ax38BUYHrqCtDuNZrpuUJVGqZzNgc0kIqdknnEnmNraCTSKF5GCIO8QG1kYmp8sPnfVaBE227M7mmMX0oTjG0q6p8lRqKk8cRia3w=s250",
+            "image_thumbnail_url": "https://lh3.googleusercontent.com/4ax38BUYHrqCtDuNZrpuUJVGqZzNgc0kIqdknnEnmNraCTSKF5GCIO8QG1kYmp8sPnfVaBE227M7mmMX0oTjG0q6p8lRqKk8cRia3w=s128",
+            "image_url": "https://lh3.googleusercontent.com/4ax38BUYHrqCtDuNZrpuUJVGqZzNgc0kIqdknnEnmNraCTSKF5GCIO8QG1kYmp8sPnfVaBE227M7mmMX0oTjG0q6p8lRqKk8cRia3w",
+            "is_presale": false,
+            "last_sale": null,
+            "listing_date": null,
+            "name": "Slotie #9850",
+            "num_sales": 0,
+            "owner": {
+                "address": "0x3920dedfc006f549092d4db8944ec4d47697ab17",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/21.png",
+                "user": {
+                    "username": "84g473yr"
+                }
+            },
+            "permalink": "https://opensea.io/assets/0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d/9850",
+            "sell_orders": null,
+            "token_id": "9850",
+            "token_metadata": "https://sloties.mypinata.cloud/ipfs/QmUo76gxAosgUDkYsZohoYo9y9wapr8s6TorpPmYH9K6vx/9850",
+            "top_bid": null,
+            "traits": [
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 482,
+                    "trait_type": "Background",
+                    "value": "Lemon"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 286,
+                    "trait_type": "Mouth",
+                    "value": "Tusks"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 178,
+                    "trait_type": "Hat",
+                    "value": "Captain_s Hat"
+                },
+                {
+                    "display_type": "boost_percentage",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "Rake Back",
+                    "value": 12
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 419,
+                    "trait_type": "Skin",
+                    "value": "Poseidon Blue"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 192,
+                    "trait_type": "Ear",
+                    "value": "Nuclear Lever"
+                },
+                {
+                    "display_type": "boost_number",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "EHR Shares",
+                    "value": 220
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 128,
+                    "trait_type": "Clothes",
+                    "value": "Clown"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 192,
+                    "trait_type": "Eyes",
+                    "value": "Welcome"
+                }
+            ],
+            "transfer_fee": null,
+            "transfer_fee_payment_token": null
+        },
+        {
+            "animation_original_url": null,
+            "animation_url": null,
+            "asset_contract": {
+                "address": "0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d",
+                "asset_contract_type": "non-fungible",
+                "buyer_fee_basis_points": 0,
+                "created_date": "2021-12-07T11:53:22.179694",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": 0,
+                "dev_seller_fee_basis_points": 250,
+                "external_link": "https://www.slotie.com/",
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "name": "Slotie",
+                "nft_version": "3.0",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": 0,
+                "opensea_seller_fee_basis_points": 250,
+                "opensea_version": null,
+                "owner": 161990908,
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "schema_name": "ERC721",
+                "seller_fee_basis_points": 500,
+                "symbol": "SLOTIE",
+                "total_supply": "0"
+            },
+            "background_color": null,
+            "collection": {
+                "banner_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s2500",
+                "chat_url": null,
+                "created_date": "2021-12-07T11:54:51.197726",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": "0",
+                "dev_seller_fee_basis_points": "250",
+                "discord_url": "https://discord.gg/Qq58DcWZsJ",
+                "display_data": {
+                    "card_display_style": "contain"
+                },
+                "external_url": "https://www.slotie.com/",
+                "featured": false,
+                "featured_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "hidden": false,
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "instagram_username": null,
+                "is_subject_to_whitelist": false,
+                "large_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "medium_username": null,
+                "name": "Slotie NFT",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": "0",
+                "opensea_seller_fee_basis_points": "250",
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "require_email": false,
+                "safelist_request_status": "approved",
+                "short_description": null,
+                "slug": "slotienft",
+                "telegram_url": null,
+                "twitter_username": "SlotieNft",
+                "wiki_url": null
+            },
+            "creator": {
+                "address": "0x197f307de4a57608aa63a471c943a2fe15268834",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/9.png",
+                "user": {
+                    "username": "SlotieClub"
+                }
+            },
+            "decimals": 0,
+            "description": "When you hold a Slotie, you're not simply holding an item or a provably-rare piece of art. You have membership access to the Slotie Club with benefits and offerings such as:\n\n- NFT Staking Game\n- Exclusive Holder Reward\n- 20% Rakeback at Casinos\n- Breeding\n- Tokens\n- Slottery           \nSlotie is your ticket into the largest and fastest growing online Casino network on the blockchain. With only 10,000 VIP members ever to be minted, Sloties grants you access to the new world of Defi Gambling. Sloties grant proof of ownership on the Ethereum blockchain, and are based on the ERC-721 standard.\n\nMore than your ordinary community, Sloties provide real world benefits in over 150 Casinos worldwide. This is not your average Slot Machine: with Sloties it's your house, your rules!",
+            "external_link": null,
+            "id": 151526164,
+            "image_original_url": "https://gateway.pinata.cloud/ipfs/QmeSTigtYtz23ue1VU3cuY8wdzRZ9jwqBxGQaKgVuiiBBD/9849.png",
+            "image_preview_url": "https://lh3.googleusercontent.com/Y8icCPCiNsK1cLyGNE3QdwFWXGUOTDharykJyVKrpdLDbesU8b06TiRycX_fityDA8Dm3mUykIrf6LnXnO5xaXYAo2boERF1NfBBR78=s250",
+            "image_thumbnail_url": "https://lh3.googleusercontent.com/Y8icCPCiNsK1cLyGNE3QdwFWXGUOTDharykJyVKrpdLDbesU8b06TiRycX_fityDA8Dm3mUykIrf6LnXnO5xaXYAo2boERF1NfBBR78=s128",
+            "image_url": "https://lh3.googleusercontent.com/Y8icCPCiNsK1cLyGNE3QdwFWXGUOTDharykJyVKrpdLDbesU8b06TiRycX_fityDA8Dm3mUykIrf6LnXnO5xaXYAo2boERF1NfBBR78",
+            "is_presale": false,
+            "last_sale": null,
+            "listing_date": null,
+            "name": "Slotie #9849",
+            "num_sales": 0,
+            "owner": {
+                "address": "0x87e8c0d8cd7dd303862e8fc0ac8503b57bee76a2",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/19.png",
+                "user": {
+                    "username": "MoosaZaidi97"
+                }
+            },
+            "permalink": "https://opensea.io/assets/0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d/9849",
+            "sell_orders": null,
+            "token_id": "9849",
+            "token_metadata": "https://sloties.mypinata.cloud/ipfs/QmUo76gxAosgUDkYsZohoYo9y9wapr8s6TorpPmYH9K6vx/9849",
+            "top_bid": null,
+            "traits": [
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 246,
+                    "trait_type": "Ear",
+                    "value": "Quad Aces"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 232,
+                    "trait_type": "Mouth",
+                    "value": "Card Teeth"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 330,
+                    "trait_type": "Eyes",
+                    "value": "Square Glasses"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 385,
+                    "trait_type": "Skin",
+                    "value": "Nuclear Green"
+                },
+                {
+                    "display_type": "boost_number",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "EHR Shares",
+                    "value": 150
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 201,
+                    "trait_type": "Clothes",
+                    "value": "Responsible Suit"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 257,
+                    "trait_type": "Hat",
+                    "value": "Creative Idea"
+                },
+                {
+                    "display_type": "boost_percentage",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "Rake Back",
+                    "value": 10
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 525,
+                    "trait_type": "Background",
+                    "value": "Navy"
+                }
+            ],
+            "transfer_fee": null,
+            "transfer_fee_payment_token": null
+        },
+        {
+            "animation_original_url": null,
+            "animation_url": null,
+            "asset_contract": {
+                "address": "0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d",
+                "asset_contract_type": "non-fungible",
+                "buyer_fee_basis_points": 0,
+                "created_date": "2021-12-07T11:53:22.179694",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": 0,
+                "dev_seller_fee_basis_points": 250,
+                "external_link": "https://www.slotie.com/",
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "name": "Slotie",
+                "nft_version": "3.0",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": 0,
+                "opensea_seller_fee_basis_points": 250,
+                "opensea_version": null,
+                "owner": 161990908,
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "schema_name": "ERC721",
+                "seller_fee_basis_points": 500,
+                "symbol": "SLOTIE",
+                "total_supply": "0"
+            },
+            "background_color": null,
+            "collection": {
+                "banner_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s2500",
+                "chat_url": null,
+                "created_date": "2021-12-07T11:54:51.197726",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": "0",
+                "dev_seller_fee_basis_points": "250",
+                "discord_url": "https://discord.gg/Qq58DcWZsJ",
+                "display_data": {
+                    "card_display_style": "contain"
+                },
+                "external_url": "https://www.slotie.com/",
+                "featured": false,
+                "featured_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "hidden": false,
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "instagram_username": null,
+                "is_subject_to_whitelist": false,
+                "large_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "medium_username": null,
+                "name": "Slotie NFT",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": "0",
+                "opensea_seller_fee_basis_points": "250",
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "require_email": false,
+                "safelist_request_status": "approved",
+                "short_description": null,
+                "slug": "slotienft",
+                "telegram_url": null,
+                "twitter_username": "SlotieNft",
+                "wiki_url": null
+            },
+            "creator": {
+                "address": "0x197f307de4a57608aa63a471c943a2fe15268834",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/9.png",
+                "user": {
+                    "username": "SlotieClub"
+                }
+            },
+            "decimals": 0,
+            "description": "When you hold a Slotie, you're not simply holding an item or a provably-rare piece of art. You have membership access to the Slotie Club with benefits and offerings such as:\n\n- NFT Staking Game\n- Exclusive Holder Reward\n- 20% Rakeback at Casinos\n- Breeding\n- Tokens\n- Slottery           \nSlotie is your ticket into the largest and fastest growing online Casino network on the blockchain. With only 10,000 VIP members ever to be minted, Sloties grants you access to the new world of Defi Gambling. Sloties grant proof of ownership on the Ethereum blockchain, and are based on the ERC-721 standard.\n\nMore than your ordinary community, Sloties provide real world benefits in over 150 Casinos worldwide. This is not your average Slot Machine: with Sloties it's your house, your rules!",
+            "external_link": null,
+            "id": 151526154,
+            "image_original_url": "https://gateway.pinata.cloud/ipfs/QmeSTigtYtz23ue1VU3cuY8wdzRZ9jwqBxGQaKgVuiiBBD/9848.png",
+            "image_preview_url": "https://lh3.googleusercontent.com/5sGY-hhZS6QlVOfOHDaph-tuVt_bwzx0qZYE4Wc-5f7b1vCp9wxmYkz0NUI6y9rWXF0bA9L0GzTCOLXUqQzbLSlILWq9GLmLHRjLGw=s250",
+            "image_thumbnail_url": "https://lh3.googleusercontent.com/5sGY-hhZS6QlVOfOHDaph-tuVt_bwzx0qZYE4Wc-5f7b1vCp9wxmYkz0NUI6y9rWXF0bA9L0GzTCOLXUqQzbLSlILWq9GLmLHRjLGw=s128",
+            "image_url": "https://lh3.googleusercontent.com/5sGY-hhZS6QlVOfOHDaph-tuVt_bwzx0qZYE4Wc-5f7b1vCp9wxmYkz0NUI6y9rWXF0bA9L0GzTCOLXUqQzbLSlILWq9GLmLHRjLGw",
+            "is_presale": false,
+            "last_sale": null,
+            "listing_date": null,
+            "name": "Slotie #9848",
+            "num_sales": 0,
+            "owner": {
+                "address": "0x87e8c0d8cd7dd303862e8fc0ac8503b57bee76a2",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/19.png",
+                "user": {
+                    "username": "MoosaZaidi97"
+                }
+            },
+            "permalink": "https://opensea.io/assets/0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d/9848",
+            "sell_orders": null,
+            "token_id": "9848",
+            "token_metadata": "https://sloties.mypinata.cloud/ipfs/QmUo76gxAosgUDkYsZohoYo9y9wapr8s6TorpPmYH9K6vx/9848",
+            "top_bid": null,
+            "traits": [
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 283,
+                    "trait_type": "Clothes",
+                    "value": "Goth Clothes"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 279,
+                    "trait_type": "Eyes",
+                    "value": "Out of Blue"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 186,
+                    "trait_type": "Hat",
+                    "value": "Bloody Cards"
+                },
+                {
+                    "display_type": "boost_number",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "EHR Shares",
+                    "value": 90
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 362,
+                    "trait_type": "Ear",
+                    "value": "Disco Ball"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 137,
+                    "trait_type": "Mouth",
+                    "value": "Zombie Mouth"
+                },
+                {
+                    "display_type": "boost_percentage",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "Rake Back",
+                    "value": 12
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 577,
+                    "trait_type": "Background",
+                    "value": "Iris"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 439,
+                    "trait_type": "Skin",
+                    "value": "Fern Green"
+                }
+            ],
+            "transfer_fee": null,
+            "transfer_fee_payment_token": null
+        },
+        {
+            "animation_original_url": null,
+            "animation_url": null,
+            "asset_contract": {
+                "address": "0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d",
+                "asset_contract_type": "non-fungible",
+                "buyer_fee_basis_points": 0,
+                "created_date": "2021-12-07T11:53:22.179694",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": 0,
+                "dev_seller_fee_basis_points": 250,
+                "external_link": "https://www.slotie.com/",
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "name": "Slotie",
+                "nft_version": "3.0",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": 0,
+                "opensea_seller_fee_basis_points": 250,
+                "opensea_version": null,
+                "owner": 161990908,
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "schema_name": "ERC721",
+                "seller_fee_basis_points": 500,
+                "symbol": "SLOTIE",
+                "total_supply": "0"
+            },
+            "background_color": null,
+            "collection": {
+                "banner_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s2500",
+                "chat_url": null,
+                "created_date": "2021-12-07T11:54:51.197726",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": "0",
+                "dev_seller_fee_basis_points": "250",
+                "discord_url": "https://discord.gg/Qq58DcWZsJ",
+                "display_data": {
+                    "card_display_style": "contain"
+                },
+                "external_url": "https://www.slotie.com/",
+                "featured": false,
+                "featured_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "hidden": false,
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "instagram_username": null,
+                "is_subject_to_whitelist": false,
+                "large_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "medium_username": null,
+                "name": "Slotie NFT",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": "0",
+                "opensea_seller_fee_basis_points": "250",
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "require_email": false,
+                "safelist_request_status": "approved",
+                "short_description": null,
+                "slug": "slotienft",
+                "telegram_url": null,
+                "twitter_username": "SlotieNft",
+                "wiki_url": null
+            },
+            "creator": {
+                "address": "0x197f307de4a57608aa63a471c943a2fe15268834",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/9.png",
+                "user": {
+                    "username": "SlotieClub"
+                }
+            },
+            "decimals": 0,
+            "description": "When you hold a Slotie, you're not simply holding an item or a provably-rare piece of art. You have membership access to the Slotie Club with benefits and offerings such as:\n\n- NFT Staking Game\n- Exclusive Holder Reward\n- 20% Rakeback at Casinos\n- Breeding\n- Tokens\n- Slottery           \nSlotie is your ticket into the largest and fastest growing online Casino network on the blockchain. With only 10,000 VIP members ever to be minted, Sloties grants you access to the new world of Defi Gambling. Sloties grant proof of ownership on the Ethereum blockchain, and are based on the ERC-721 standard.\n\nMore than your ordinary community, Sloties provide real world benefits in over 150 Casinos worldwide. This is not your average Slot Machine: with Sloties it's your house, your rules!",
+            "external_link": null,
+            "id": 151526134,
+            "image_original_url": "https://gateway.pinata.cloud/ipfs/QmeSTigtYtz23ue1VU3cuY8wdzRZ9jwqBxGQaKgVuiiBBD/9847.png",
+            "image_preview_url": "https://lh3.googleusercontent.com/IqGehJ7HySbB8fSwIEAKbhPpW1p8Lxjw8trzPQgFCZtKCzMzgG2E_ixCr3DweGF55N9lVPkY-1Gzf5livJVg1lgKNoSQBaCBUgdi5CU=s250",
+            "image_thumbnail_url": "https://lh3.googleusercontent.com/IqGehJ7HySbB8fSwIEAKbhPpW1p8Lxjw8trzPQgFCZtKCzMzgG2E_ixCr3DweGF55N9lVPkY-1Gzf5livJVg1lgKNoSQBaCBUgdi5CU=s128",
+            "image_url": "https://lh3.googleusercontent.com/IqGehJ7HySbB8fSwIEAKbhPpW1p8Lxjw8trzPQgFCZtKCzMzgG2E_ixCr3DweGF55N9lVPkY-1Gzf5livJVg1lgKNoSQBaCBUgdi5CU",
+            "is_presale": false,
+            "last_sale": null,
+            "listing_date": null,
+            "name": "Slotie #9847",
+            "num_sales": 0,
+            "owner": {
+                "address": "0x87e8c0d8cd7dd303862e8fc0ac8503b57bee76a2",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/19.png",
+                "user": {
+                    "username": "MoosaZaidi97"
+                }
+            },
+            "permalink": "https://opensea.io/assets/0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d/9847",
+            "sell_orders": null,
+            "token_id": "9847",
+            "token_metadata": "https://sloties.mypinata.cloud/ipfs/QmUo76gxAosgUDkYsZohoYo9y9wapr8s6TorpPmYH9K6vx/9847",
+            "top_bid": null,
+            "traits": [
+                {
+                    "display_type": "boost_number",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "EHR Shares",
+                    "value": 110
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 412,
+                    "trait_type": "Ear",
+                    "value": "Wool Ball"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 226,
+                    "trait_type": "Eyes",
+                    "value": "Eagle Eyes"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 402,
+                    "trait_type": "Background",
+                    "value": "Crimson"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 237,
+                    "trait_type": "Skin",
+                    "value": "Street Art"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 209,
+                    "trait_type": "Hat",
+                    "value": "Shamrock"
+                },
+                {
+                    "display_type": "boost_percentage",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "Rake Back",
+                    "value": 11
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 245,
+                    "trait_type": "Clothes",
+                    "value": "Cheater Suite"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 93,
+                    "trait_type": "Mouth",
+                    "value": "Aztec Tongue"
+                }
+            ],
+            "transfer_fee": null,
+            "transfer_fee_payment_token": null
+        },
+        {
+            "animation_original_url": null,
+            "animation_url": null,
+            "asset_contract": {
+                "address": "0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d",
+                "asset_contract_type": "non-fungible",
+                "buyer_fee_basis_points": 0,
+                "created_date": "2021-12-07T11:53:22.179694",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": 0,
+                "dev_seller_fee_basis_points": 250,
+                "external_link": "https://www.slotie.com/",
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "name": "Slotie",
+                "nft_version": "3.0",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": 0,
+                "opensea_seller_fee_basis_points": 250,
+                "opensea_version": null,
+                "owner": 161990908,
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "schema_name": "ERC721",
+                "seller_fee_basis_points": 500,
+                "symbol": "SLOTIE",
+                "total_supply": "0"
+            },
+            "background_color": null,
+            "collection": {
+                "banner_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s2500",
+                "chat_url": null,
+                "created_date": "2021-12-07T11:54:51.197726",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": "0",
+                "dev_seller_fee_basis_points": "250",
+                "discord_url": "https://discord.gg/Qq58DcWZsJ",
+                "display_data": {
+                    "card_display_style": "contain"
+                },
+                "external_url": "https://www.slotie.com/",
+                "featured": false,
+                "featured_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "hidden": false,
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "instagram_username": null,
+                "is_subject_to_whitelist": false,
+                "large_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "medium_username": null,
+                "name": "Slotie NFT",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": "0",
+                "opensea_seller_fee_basis_points": "250",
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "require_email": false,
+                "safelist_request_status": "approved",
+                "short_description": null,
+                "slug": "slotienft",
+                "telegram_url": null,
+                "twitter_username": "SlotieNft",
+                "wiki_url": null
+            },
+            "creator": {
+                "address": "0x197f307de4a57608aa63a471c943a2fe15268834",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/9.png",
+                "user": {
+                    "username": "SlotieClub"
+                }
+            },
+            "decimals": 0,
+            "description": "When you hold a Slotie, you're not simply holding an item or a provably-rare piece of art. You have membership access to the Slotie Club with benefits and offerings such as:\n\n- NFT Staking Game\n- Exclusive Holder Reward\n- 20% Rakeback at Casinos\n- Breeding\n- Tokens\n- Slottery           \nSlotie is your ticket into the largest and fastest growing online Casino network on the blockchain. With only 10,000 VIP members ever to be minted, Sloties grants you access to the new world of Defi Gambling. Sloties grant proof of ownership on the Ethereum blockchain, and are based on the ERC-721 standard.\n\nMore than your ordinary community, Sloties provide real world benefits in over 150 Casinos worldwide. This is not your average Slot Machine: with Sloties it's your house, your rules!",
+            "external_link": null,
+            "id": 150242177,
+            "image_original_url": "https://gateway.pinata.cloud/ipfs/QmeSTigtYtz23ue1VU3cuY8wdzRZ9jwqBxGQaKgVuiiBBD/9846.png",
+            "image_preview_url": "https://lh3.googleusercontent.com/D0j8bwPZ7Rye5GTOqu07xaDMIdD_iTE55SRn2X2MDkyMMINyA0tgiZQkIIbpfD9vjuED7cdPLXnxRzekKsnrN6BQFDjKMGZgy6sE1A=s250",
+            "image_thumbnail_url": "https://lh3.googleusercontent.com/D0j8bwPZ7Rye5GTOqu07xaDMIdD_iTE55SRn2X2MDkyMMINyA0tgiZQkIIbpfD9vjuED7cdPLXnxRzekKsnrN6BQFDjKMGZgy6sE1A=s128",
+            "image_url": "https://lh3.googleusercontent.com/D0j8bwPZ7Rye5GTOqu07xaDMIdD_iTE55SRn2X2MDkyMMINyA0tgiZQkIIbpfD9vjuED7cdPLXnxRzekKsnrN6BQFDjKMGZgy6sE1A",
+            "is_presale": false,
+            "last_sale": null,
+            "listing_date": null,
+            "name": "Slotie #9846",
+            "num_sales": 0,
+            "owner": {
+                "address": "0x72fdfc4f1312cad6f45b375ba80bf246f07b5264",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/8.png",
+                "user": {
+                    "username": "327323"
+                }
+            },
+            "permalink": "https://opensea.io/assets/0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d/9846",
+            "sell_orders": null,
+            "token_id": "9846",
+            "token_metadata": "https://sloties.mypinata.cloud/ipfs/QmUo76gxAosgUDkYsZohoYo9y9wapr8s6TorpPmYH9K6vx/9846",
+            "top_bid": null,
+            "traits": [
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 321,
+                    "trait_type": "Clothes",
+                    "value": "Dollarstore Shirt"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 445,
+                    "trait_type": "Ear",
+                    "value": "Painting Brush"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 330,
+                    "trait_type": "Eyes",
+                    "value": "Square Glasses"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 504,
+                    "trait_type": "Background",
+                    "value": "Charcoal"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 420,
+                    "trait_type": "Hat",
+                    "value": "Thanksgiving Hat"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 253,
+                    "trait_type": "Mouth",
+                    "value": "Vertical"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 397,
+                    "trait_type": "Skin",
+                    "value": "Aqua Green"
+                },
+                {
+                    "display_type": "boost_percentage",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "Rake Back",
+                    "value": 6
+                },
+                {
+                    "display_type": "boost_number",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "EHR Shares",
+                    "value": 50
+                }
+            ],
+            "transfer_fee": null,
+            "transfer_fee_payment_token": null
+        },
+        {
+            "animation_original_url": null,
+            "animation_url": null,
+            "asset_contract": {
+                "address": "0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d",
+                "asset_contract_type": "non-fungible",
+                "buyer_fee_basis_points": 0,
+                "created_date": "2021-12-07T11:53:22.179694",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": 0,
+                "dev_seller_fee_basis_points": 250,
+                "external_link": "https://www.slotie.com/",
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "name": "Slotie",
+                "nft_version": "3.0",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": 0,
+                "opensea_seller_fee_basis_points": 250,
+                "opensea_version": null,
+                "owner": 161990908,
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "schema_name": "ERC721",
+                "seller_fee_basis_points": 500,
+                "symbol": "SLOTIE",
+                "total_supply": "0"
+            },
+            "background_color": null,
+            "collection": {
+                "banner_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s2500",
+                "chat_url": null,
+                "created_date": "2021-12-07T11:54:51.197726",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": "0",
+                "dev_seller_fee_basis_points": "250",
+                "discord_url": "https://discord.gg/Qq58DcWZsJ",
+                "display_data": {
+                    "card_display_style": "contain"
+                },
+                "external_url": "https://www.slotie.com/",
+                "featured": false,
+                "featured_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "hidden": false,
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "instagram_username": null,
+                "is_subject_to_whitelist": false,
+                "large_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "medium_username": null,
+                "name": "Slotie NFT",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": "0",
+                "opensea_seller_fee_basis_points": "250",
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "require_email": false,
+                "safelist_request_status": "approved",
+                "short_description": null,
+                "slug": "slotienft",
+                "telegram_url": null,
+                "twitter_username": "SlotieNft",
+                "wiki_url": null
+            },
+            "creator": {
+                "address": "0x197f307de4a57608aa63a471c943a2fe15268834",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/9.png",
+                "user": {
+                    "username": "SlotieClub"
+                }
+            },
+            "decimals": 0,
+            "description": "When you hold a Slotie, you're not simply holding an item or a provably-rare piece of art. You have membership access to the Slotie Club with benefits and offerings such as:\n\n- NFT Staking Game\n- Exclusive Holder Reward\n- 20% Rakeback at Casinos\n- Breeding\n- Tokens\n- Slottery           \nSlotie is your ticket into the largest and fastest growing online Casino network on the blockchain. With only 10,000 VIP members ever to be minted, Sloties grants you access to the new world of Defi Gambling. Sloties grant proof of ownership on the Ethereum blockchain, and are based on the ERC-721 standard.\n\nMore than your ordinary community, Sloties provide real world benefits in over 150 Casinos worldwide. This is not your average Slot Machine: with Sloties it's your house, your rules!",
+            "external_link": null,
+            "id": 150242173,
+            "image_original_url": "https://gateway.pinata.cloud/ipfs/QmeSTigtYtz23ue1VU3cuY8wdzRZ9jwqBxGQaKgVuiiBBD/9845.png",
+            "image_preview_url": "https://lh3.googleusercontent.com/jJOlp741yNRTy2xXgdmpPJ1OJXmUb-ft8Oyc1qPLPhdbH-xxgN5mKajoNuMGmxNPLpegp9bcG54rvs1bLNp5pgBi2s2FEZmFQEtB5w=s250",
+            "image_thumbnail_url": "https://lh3.googleusercontent.com/jJOlp741yNRTy2xXgdmpPJ1OJXmUb-ft8Oyc1qPLPhdbH-xxgN5mKajoNuMGmxNPLpegp9bcG54rvs1bLNp5pgBi2s2FEZmFQEtB5w=s128",
+            "image_url": "https://lh3.googleusercontent.com/jJOlp741yNRTy2xXgdmpPJ1OJXmUb-ft8Oyc1qPLPhdbH-xxgN5mKajoNuMGmxNPLpegp9bcG54rvs1bLNp5pgBi2s2FEZmFQEtB5w",
+            "is_presale": false,
+            "last_sale": null,
+            "listing_date": null,
+            "name": "Slotie #9845",
+            "num_sales": 0,
+            "owner": {
+                "address": "0x72fdfc4f1312cad6f45b375ba80bf246f07b5264",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/8.png",
+                "user": {
+                    "username": "327323"
+                }
+            },
+            "permalink": "https://opensea.io/assets/0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d/9845",
+            "sell_orders": null,
+            "token_id": "9845",
+            "token_metadata": "https://sloties.mypinata.cloud/ipfs/QmUo76gxAosgUDkYsZohoYo9y9wapr8s6TorpPmYH9K6vx/9845",
+            "top_bid": null,
+            "traits": [
+                {
+                    "display_type": "boost_number",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "EHR Shares",
+                    "value": 130
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 462,
+                    "trait_type": "Hat",
+                    "value": "Leaves"
+                },
+                {
+                    "display_type": "boost_percentage",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "Rake Back",
+                    "value": 5
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 469,
+                    "trait_type": "Ear",
+                    "value": "Pencil"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 472,
+                    "trait_type": "Background",
+                    "value": "Rouge"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 153,
+                    "trait_type": "Eyes",
+                    "value": "Nuclear Eyes"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 190,
+                    "trait_type": "Mouth",
+                    "value": "Facemask"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 282,
+                    "trait_type": "Skin",
+                    "value": "Strawberry"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 223,
+                    "trait_type": "Clothes",
+                    "value": "Funky Kid"
+                }
+            ],
+            "transfer_fee": null,
+            "transfer_fee_payment_token": null
+        },
+        {
+            "animation_original_url": null,
+            "animation_url": null,
+            "asset_contract": {
+                "address": "0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d",
+                "asset_contract_type": "non-fungible",
+                "buyer_fee_basis_points": 0,
+                "created_date": "2021-12-07T11:53:22.179694",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": 0,
+                "dev_seller_fee_basis_points": 250,
+                "external_link": "https://www.slotie.com/",
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "name": "Slotie",
+                "nft_version": "3.0",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": 0,
+                "opensea_seller_fee_basis_points": 250,
+                "opensea_version": null,
+                "owner": 161990908,
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "schema_name": "ERC721",
+                "seller_fee_basis_points": 500,
+                "symbol": "SLOTIE",
+                "total_supply": "0"
+            },
+            "background_color": null,
+            "collection": {
+                "banner_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s2500",
+                "chat_url": null,
+                "created_date": "2021-12-07T11:54:51.197726",
+                "default_to_fiat": false,
+                "description": "\ud83d\udc51 Become a HOUSE in 150 online casinos \ud83c\udfb0 Slotie is a \ud83c\udd95 utility NFT that creates DeFi ecosystem in gambling.\n\n\ud83d\udcb0Sold Out in Under 5 Minutes \ud83d\udcb0",
+                "dev_buyer_fee_basis_points": "0",
+                "dev_seller_fee_basis_points": "250",
+                "discord_url": "https://discord.gg/Qq58DcWZsJ",
+                "display_data": {
+                    "card_display_style": "contain"
+                },
+                "external_url": "https://www.slotie.com/",
+                "featured": false,
+                "featured_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "hidden": false,
+                "image_url": "https://lh3.googleusercontent.com/FDfJqrobmHVsLC6tNvjYv90xxRUPqG39zJqpjj-FpgKJJX5n23IegiO4lkqbATXRUxz2z8GGHa8qMN0cHqof1hx2xetxy6MobmKxkw=s120",
+                "instagram_username": null,
+                "is_subject_to_whitelist": false,
+                "large_image_url": "https://lh3.googleusercontent.com/aBHIYJxx7IgDDHEppLtHb6Xhuekkxdf4khbwHc7JWZ3t80tK3hnbMYnpQx6YjlZh5G3z4UYvlIGn-AzqY0MLNdNy1_vqVl-P4viXMw=s300",
+                "medium_username": null,
+                "name": "Slotie NFT",
+                "only_proxied_transfers": false,
+                "opensea_buyer_fee_basis_points": "0",
+                "opensea_seller_fee_basis_points": "250",
+                "payout_address": "0x3402a180479c8b0663312a983dfde92889a65294",
+                "require_email": false,
+                "safelist_request_status": "approved",
+                "short_description": null,
+                "slug": "slotienft",
+                "telegram_url": null,
+                "twitter_username": "SlotieNft",
+                "wiki_url": null
+            },
+            "creator": {
+                "address": "0x197f307de4a57608aa63a471c943a2fe15268834",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/9.png",
+                "user": {
+                    "username": "SlotieClub"
+                }
+            },
+            "decimals": 0,
+            "description": "When you hold a Slotie, you're not simply holding an item or a provably-rare piece of art. You have membership access to the Slotie Club with benefits and offerings such as:\n\n- NFT Staking Game\n- Exclusive Holder Reward\n- 20% Rakeback at Casinos\n- Breeding\n- Tokens\n- Slottery           \nSlotie is your ticket into the largest and fastest growing online Casino network on the blockchain. With only 10,000 VIP members ever to be minted, Sloties grants you access to the new world of Defi Gambling. Sloties grant proof of ownership on the Ethereum blockchain, and are based on the ERC-721 standard.\n\nMore than your ordinary community, Sloties provide real world benefits in over 150 Casinos worldwide. This is not your average Slot Machine: with Sloties it's your house, your rules!",
+            "external_link": null,
+            "id": 150242164,
+            "image_original_url": "https://gateway.pinata.cloud/ipfs/QmeSTigtYtz23ue1VU3cuY8wdzRZ9jwqBxGQaKgVuiiBBD/9844.png",
+            "image_preview_url": "https://lh3.googleusercontent.com/nAzRwdFs5KN788Sp8uU2twDFzHVHB9bCWmwIEcf_CcIHRx2HlJAcyPATWEdwRBFEOLU43b6hKcML3MkcJdmigGuZ2Hb4CZT27XRoxiE=s250",
+            "image_thumbnail_url": "https://lh3.googleusercontent.com/nAzRwdFs5KN788Sp8uU2twDFzHVHB9bCWmwIEcf_CcIHRx2HlJAcyPATWEdwRBFEOLU43b6hKcML3MkcJdmigGuZ2Hb4CZT27XRoxiE=s128",
+            "image_url": "https://lh3.googleusercontent.com/nAzRwdFs5KN788Sp8uU2twDFzHVHB9bCWmwIEcf_CcIHRx2HlJAcyPATWEdwRBFEOLU43b6hKcML3MkcJdmigGuZ2Hb4CZT27XRoxiE",
+            "is_presale": false,
+            "last_sale": null,
+            "listing_date": null,
+            "name": "Slotie #9844",
+            "num_sales": 0,
+            "owner": {
+                "address": "0x72fdfc4f1312cad6f45b375ba80bf246f07b5264",
+                "config": "",
+                "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/8.png",
+                "user": {
+                    "username": "327323"
+                }
+            },
+            "permalink": "https://opensea.io/assets/0x5fdb2b0c56afa73b8ca2228e6ab92be90325961d/9844",
+            "sell_orders": null,
+            "token_id": "9844",
+            "token_metadata": "https://sloties.mypinata.cloud/ipfs/QmUo76gxAosgUDkYsZohoYo9y9wapr8s6TorpPmYH9K6vx/9844",
+            "top_bid": null,
+            "traits": [
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 452,
+                    "trait_type": "Skin",
+                    "value": "Aztec Gray"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 227,
+                    "trait_type": "Mouth",
+                    "value": "Green Card"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 303,
+                    "trait_type": "Clothes",
+                    "value": "Leopard T-shirt"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 192,
+                    "trait_type": "Ear",
+                    "value": "Snake Pin"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 256,
+                    "trait_type": "Eyes",
+                    "value": "Loving Gaze"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 547,
+                    "trait_type": "Background",
+                    "value": "Sky"
+                },
+                {
+                    "display_type": null,
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 209,
+                    "trait_type": "Hat",
+                    "value": "Shamrock"
+                },
+                {
+                    "display_type": "boost_percentage",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "Rake Back",
+                    "value": 11
+                },
+                {
+                    "display_type": "boost_number",
+                    "max_value": null,
+                    "order": null,
+                    "trait_count": 0,
+                    "trait_type": "EHR Shares",
+                    "value": 70
+                }
+            ],
+            "transfer_fee": null,
+            "transfer_fee_payment_token": null
+        }
+    ]
+}
