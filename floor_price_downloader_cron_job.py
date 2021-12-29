@@ -1,5 +1,4 @@
 import datetime as dt
-import json
 import os.path
 
 import matplotlib.pyplot as plt
@@ -8,7 +7,7 @@ import requests
 
 
 def get_collection_stats(collection_slug):
-    url = f"https://api.opensea.io/api/v1/collection/{collection_slug}/stats"
+    url = f'https://api.opensea.io/api/v1/collection/{collection_slug}/stats'
     headers = {"Accept": "application/json"}
 
     return requests.request("GET", url, headers=headers).json()
@@ -17,7 +16,10 @@ def get_collection_stats(collection_slug):
 def get_floor_price(slug_name):
     collection_stats = get_collection_stats(slug_name)
 
-    collection_floor = float(collection_stats["stats"]["floor_price"])
+    try:
+        collection_floor = float(collection_stats["stats"]["floor_price"])
+    except TypeError:
+        collection_floor = 0
 
     datetime_now = dt.datetime.now()
     datetime_rounded = datetime_now - dt.timedelta(seconds=datetime_now.second,
@@ -26,7 +28,7 @@ def get_floor_price(slug_name):
     return [datetime_rounded, slug_name, collection_floor]
 
 
-def append_floor_data_to_file(tracked_slug_list, filepath="floor_price_records.csv"):
+def append_floor_data_to_file(tracked_slug_list, filepath="./floor_price_records.csv"):
     new_floor_data = []
 
     for slug in tracked_slug_list:
@@ -53,24 +55,9 @@ def append_floor_data_to_file(tracked_slug_list, filepath="floor_price_records.c
         print(f'Appended latest floor data to file. \n{filepath}')
 
 
-def plot_floor_data(floor_price_records_csv_filepath="floor_price_records.csv", seperate_windows=True):
-    floor_data_pd = pd.read_csv(floor_price_records_csv_filepath)
-
-    if seperate_windows:
-        floor_data_pd.groupby(
-            ['Datetime',  'Collection_Slug']).max()['Floor_Price'].unstack().plot(subplots=True)
-
-    else:
-        floor_data_pd.groupby(
-            ['Datetime',  'Collection_Slug']).max()['Floor_Price'].unstack().plot()
-
-    plt.show()
-
-
 if __name__ == "__main__":
+    # Add more slugs to track more.
     tracked_slug_list = [
-        "bigtime-founders", "slotienft", "billionairezombiesclub"]
+        "bigtime-founders", "slotienft", "billionairezombiesclub", "boredapeyachtclub", "adidasoriginals", "veefriends", "derace-ticket", "zed-run-official", "derace-horses", "cryptopunks"]
 
     append_floor_data_to_file(tracked_slug_list)
-
-    plot_floor_data()
