@@ -58,6 +58,6 @@ def append_floor_data_to_file(tracked_slug_list, filepath="./floor_price_records
 if __name__ == "__main__":
     # Add more slugs to track more.
     tracked_slug_list = [
-        "bigtime-founders", "slotienft", "billionairezombiesclub", "boredapeyachtclub", "adidasoriginals", "veefriends", "derace-ticket", "zed-run-official", "derace-horses", "cryptopunks"]
+        "bigtime-founders", "decentral-games-ice", "slotienft", "billionairezombiesclub", "boredapeyachtclub", "adidasoriginals", "veefriends", "derace-ticket", "zed-run-official", "derace-horses", "cryptopunks", "mutant-ape-yacht-club"]
 
     append_floor_data_to_file(tracked_slug_list)
